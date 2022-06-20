@@ -1,0 +1,1219 @@
+Taking	X	X	B-ACT
+Off	X	X	I-ACT
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Home	O
+Point	X	X	O
+Recorded	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+30m	X	X	O
+
+Camera	B-CMP
+Settings	X	X	B-FNC
+Adjusted	X	X	O
+to	X	X	O
+ActiveTrack	X	X	O
+
+Your	O
+palm	X	X	O
+is	X	X	O
+too	X	X	O
+far	X	X	O
+away	X	X	O
+from	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+Please	X	X	O
+step	X	X	O
+closer	X	X	O
+
+Palm	B-FNC
+Control	X	X	I-FNC
+in	X	X	O
+Process	X	X	O
+
+Palm	B-FNC
+Control	X	X	I-FNC
+in	X	X	O
+Process	X	X	O
+
+Palm	B-FNC
+Control	X	X	I-FNC
+in	X	X	O
+Process	X	X	O
+
+Camera	B-CMP
+Settings	X	X	B-FNC
+Adjusted	X	X	O
+to	X	X	O
+ActiveTrack	X	X	O
+
+Camera	B-CMP
+Settings	X	X	B-FNC
+Adjusted	X	X	O
+to	X	X	O
+ActiveTrack	X	X	O
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Compass	B-CMP
+Interference	X	X	B-ISS
+Temp	X	X	O
+Max	X	X	B-ISS
+Altitude	X	X	I-ISS
+98ft	X	X	O
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Compass	B-CMP
+Error	X	X	O
+Exit	X	X	O
+Mode	X	X	O
+
+Landing	B-ACT
+
+Data	O
+Recorder	X	X	O
+File	X	X	O
+Index	X	X	O
+is	X	X	O
+29	X	X	O
+
+Low	B-ISS
+Power	X	X	I-ISS
+Aircraft	X	X	B-CMP
+is	X	X	O
+returning	X	X	O
+to	X	X	O
+the	X	X	O
+Home	X	X	O
+Point	X	X	O
+
+Low	B-ISS
+Power	X	X	I-ISS
+Aircraft	X	X	B-CMP
+is	X	X	O
+returning	X	X	O
+to	X	X	O
+the	X	X	O
+Home	X	X	O
+Point	X	X	O
+
+Aircraft	B-CMP
+is	X	X	O
+returning	X	X	O
+to	X	X	O
+the	X	X	O
+Home	X	X	O
+Point	X	X	O
+Minimum	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+is	X	X	O
+30m	X	X	O
+You	X	X	O
+can	X	X	O
+reset	X	X	O
+the	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+in	X	X	O
+Remote	X	X	O
+Controller	X	X	B-CMP
+Settings	X	X	B-FNC
+after	X	X	O
+cancelling	X	X	O
+RTH	X	X	B-ACT
+
+Fly	O
+with	X	X	O
+caution	X	X	O
+and	X	X	O
+ensure	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+remains	X	X	O
+within	X	X	O
+your	X	X	O
+line	X	X	O
+of	X	X	O
+sight	X	X	O
+
+Image	O
+Transmission	X	X	O
+Recovered	X	X	O
+Aircraft	X	X	B-CMP
+is	X	X	O
+returning	X	X	O
+home	X	X	O
+
+Landing	B-FNC
+Protection	X	X	I-FNC
+Activated	X	X	O
+Aircraft	X	X	B-CMP
+will	X	X	O
+decelerate	X	X	O
+during	X	X	O
+landing	X	X	B-ACT
+
+Current	O
+RTH	X	X	B-ACT
+route	X	X	O
+will	X	X	O
+pass	X	X	O
+a	X	X	O
+zone	X	X	O
+Pay	X	X	O
+attention	X	X	O
+to	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+position	X	X	O
+to	X	X	O
+avoid	X	X	O
+RTH	X	X	B-ACT
+failure	X	X	O
+
+Compass	B-CMP
+Error	X	X	O
+Exit	X	X	O
+Mode	X	X	O
+
+Max	B-ISS
+Flight	X	X	I-ISS
+Distance	X	X	I-ISS
+Reached	X	X	O
+Adjust	X	X	O
+in	X	X	O
+Main	X	X	O
+Controller	X	X	B-CMP
+Settings	X	X	B-FNC
+if	X	X	O
+necessary	X	X	O
+
+Low	B-ISS
+Power	X	X	I-ISS
+Aircraft	X	X	B-CMP
+is	X	X	O
+returning	X	X	O
+to	X	X	O
+the	X	X	O
+Home	X	X	O
+Point	X	X	O
+
+The	O
+remaining	X	X	O
+battery	X	X	B-CMP
+is	X	X	O
+only	X	X	O
+enough	X	X	O
+for	X	X	O
+RTH	X	X	B-ACT
+Return	X	X	O
+home	X	X	O
+now	X	X	O
+
+Obstacle	B-FNC
+Avoidance	X	X	I-FNC
+will	X	X	O
+be	X	X	O
+disabled	X	X	O
+in	X	X	O
+landing	X	X	B-ACT
+
+Landing	B-CMP
+gear	X	X	I-CMP
+Avoidance	X	X	O
+Disabled	X	X	O
+
+Ground	O
+Plain	X	X	O
+Safe	X	X	O
+to	X	X	O
+Land	X	X	O
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Home	O
+Point	X	X	O
+Recorded	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+30m	X	X	O
+
+Landing	B-CMP
+gear	X	X	I-CMP
+Avoidance	X	X	O
+Disabled	X	X	O
+
+Subject	O
+too	X	X	O
+Small	X	X	O
+Get	X	X	O
+Closer	X	X	O
+and	X	X	O
+retry	X	X	O
+
+Aircraft	B-CMP
+is	X	X	O
+returning	X	X	O
+to	X	X	O
+the	X	X	O
+Home	X	X	O
+Point	X	X	O
+Minimum	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+is	X	X	O
+30m	X	X	O
+You	X	X	O
+can	X	X	O
+reset	X	X	O
+the	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+in	X	X	O
+Remote	X	X	O
+Controller	X	X	B-CMP
+Settings	X	X	B-FNC
+after	X	X	O
+cancelling	X	X	O
+RTH	X	X	B-ACT
+
+Obstacle	B-FNC
+Avoidance	X	X	I-FNC
+will	X	X	O
+be	X	X	O
+disabled	X	X	O
+in	X	X	O
+landing	X	X	B-ACT
+
+Landing	B-CMP
+gear	X	X	I-CMP
+Avoidance	X	X	O
+Disabled	X	X	O
+
+Ground	O
+Plain	X	X	O
+Safe	X	X	O
+to	X	X	O
+Land	X	X	O
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Landing	B-CMP
+gear	X	X	I-CMP
+Avoidance	X	X	O
+Disabled	X	X	O
+
+Obstacle	B-FNC
+Avoidance	X	X	I-FNC
+will	X	X	O
+be	X	X	O
+disabled	X	X	O
+in	X	X	O
+landing	X	X	B-ACT
+
+Aircraft	B-CMP
+close	X	X	O
+to	X	X	O
+Home	X	X	O
+Point	X	X	O
+shifts	X	X	O
+to	X	X	O
+
+Landing	B-CMP
+gear	X	X	I-CMP
+Avoidance	X	X	O
+Disabled	X	X	O
+
+Ground	O
+Plain	X	X	O
+Safe	X	X	O
+to	X	X	O
+Land	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+Gimbal	B-CMP
+Pitch	X	X	I-CMP
+Limit	X	X	O
+Reached	X	X	O
+
+Obstacle	B-FNC
+Sensing	X	X	I-FNC
+will	X	X	O
+be	X	X	O
+disabled	X	X	O
+when	X	X	O
+aircraft	X	X	B-CMP
+is	X	X	O
+landing	X	X	B-ACT
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+Landing	B-CMP
+Gear	X	X	I-CMP
+Lowered	X	X	B-ACT
+
+Landing	B-CMP
+gear	X	X	I-CMP
+Avoidance	X	X	O
+Disabled	X	X	O
+
+Fly	O
+with	X	X	O
+caution	X	X	O
+and	X	X	O
+ensure	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+remains	X	X	O
+within	X	X	O
+your	X	X	O
+line	X	X	O
+of	X	X	O
+sight	X	X	O
+
+Fly	O
+with	X	X	O
+caution	X	X	O
+and	X	X	O
+ensure	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+remains	X	X	O
+within	X	X	O
+your	X	X	O
+line	X	X	O
+of	X	X	O
+sight	X	X	O
+
+Landing	B-ACT
+
+Data	O
+Recorder	X	X	O
+File	X	X	O
+Index	X	X	O
+is	X	X	O
+65	X	X	O
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+Can	O
+not	X	X	O
+switch	X	X	O
+flight	X	X	O
+mode	X	X	O
+Turn	X	X	O
+on	X	X	O
+Multiple	X	X	O
+Flight	X	X	O
+Modes	X	X	O
+to	X	X	O
+enable	X	X	O
+Atti	X	X	O
+and	X	X	O
+Sport	X	X	B-STE
+Modes	X	X	I-STE
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+GPS	B-FNC
+Position	X	X	O
+Mismatch	X	X	O
+
+Landing	B-ACT
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Home	O
+Point	X	X	O
+Recorded	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+30m	X	X	O
+
+Mobile	O
+device	X	X	O
+CPU	X	X	B-CMP
+fully	X	X	O
+loaded	X	X	O
+Related	X	X	O
+performance	X	X	O
+will	X	X	O
+be	X	X	O
+affected	X	X	O
+
+Obstacle	O
+Avoided	X	X	B-ACT
+Revise	X	X	O
+Flight	X	X	O
+Route	X	X	O
+
+Maximum	B-ISS
+flight	X	X	I-ISS
+distance	X	X	I-ISS
+reached	X	X	O
+Adjust	X	X	O
+the	X	X	O
+distance	X	X	O
+in	X	X	O
+MC	X	X	O
+Settings	X	X	B-FNC
+if	X	X	O
+required	X	X	O
+
+Maximum	B-ISS
+flight	X	X	I-ISS
+distance	X	X	I-ISS
+reached	X	X	O
+Adjust	X	X	O
+the	X	X	O
+distance	X	X	O
+in	X	X	O
+MC	X	X	O
+Settings	X	X	B-FNC
+if	X	X	O
+required	X	X	O
+
+High	O
+wind	X	X	B-ISS
+velocity	X	X	I-ISS
+Ensure	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+remains	X	X	O
+within	X	X	O
+your	X	X	O
+line	X	X	O
+of	X	X	O
+sight	X	X	O
+and	X	X	O
+fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+Data	O
+Recorder	X	X	O
+File	X	X	O
+Index	X	X	O
+is	X	X	O
+45	X	X	O
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+Home	O
+Point	X	X	O
+recorded	X	X	O
+ft	X	X	O
+
+GEO	O
+You	X	X	O
+are	X	X	O
+in	X	X	O
+a	X	X	O
+Warning	X	X	B-ISS
+Zone	X	X	I-ISS
+School	X	X	O
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+Data	O
+Recorder	X	X	O
+File	X	X	O
+Index	X	X	O
+is	X	X	O
+10	X	X	O
+
+Switched	O
+to	X	X	O
+P	X	X	B-STE
+Positioning	X	X	B-STE
+Mode	X	X	I-STE
+
+Another	O
+aircraft	X	X	B-CMP
+is	X	X	O
+nearby	X	X	O
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+Another	X	X	O
+aircraft	X	X	B-CMP
+is	X	X	O
+too	X	X	O
+close	X	X	O
+please	X	X	O
+descend	X	X	O
+to	X	X	O
+a	X	X	O
+safer	X	X	O
+altitude	X	X	O
+
+Another	O
+aircraft	X	X	B-CMP
+is	X	X	O
+nearby	X	X	O
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+Another	X	X	O
+aircraft	X	X	B-CMP
+is	X	X	O
+dangerously	X	X	O
+close	X	X	O
+please	X	X	O
+descend	X	X	O
+to	X	X	O
+a	X	X	O
+safer	X	X	O
+altitude	X	X	O
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+Switched	O
+to	X	X	O
+S	X	X	B-STE
+Sport	X	X	B-STE
+Mode	X	X	I-STE
+
+Switched	O
+to	X	X	O
+S	X	X	B-STE
+Sport	X	X	B-STE
+Mode	X	X	I-STE
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+Switched	O
+to	X	X	O
+S	X	X	B-STE
+Sport	X	X	B-STE
+
+Downlink	B-CMP
+Lost	X	X	O
+
+Data	O
+Recorder	X	X	O
+File	X	X	O
+Index	X	X	O
+is	X	X	O
+7	X	X	O
+
+Data	O
+Recorder	X	X	O
+File	X	X	O
+Index	X	X	O
+is	X	X	O
+8	X	X	O
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+Switched	O
+to	X	X	O
+P	X	X	B-STE
+Positioning	X	X	B-STE
+Mode	X	X	I-STE
+
+Switched	O
+to	X	X	O
+P	X	X	B-STE
+Positioning	X	X	B-STE
+Mode	X	X	I-STE
+
+Tip	O
+Aircraft	X	X	B-CMP
+reached	X	X	O
+maximum	X	X	B-ISS
+distance	X	X	I-ISS
+please	X	X	O
+pay	X	X	O
+attention	X	X	O
+to	X	X	O
+flight	X	X	O
+safety	X	X	O
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+In	B-STE
+Flight	X	X	I-STE
+
+In	B-STE
+Flight	X	X	I-STE
+
+Strong	O
+Interference	X	X	B-ISS
+to	X	X	O
+Aircraft	X	X	B-CMP
+Signal	X	X	O
+interruption	X	X	O
+may	X	X	O
+be	X	X	O
+more	X	X	O
+likely	X	X	O
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+Strong	O
+Interference	X	X	B-ISS
+to	X	X	O
+Aircraft	X	X	B-CMP
+Signal	X	X	O
+interruption	X	X	O
+may	X	X	O
+be	X	X	O
+more	X	X	O
+likely	X	X	O
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+Fly	O
+with	X	X	O
+caution	X	X	O
+and	X	X	O
+ensure	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+remains	X	X	O
+within	X	X	O
+your	X	X	O
+line	X	X	O
+of	X	X	O
+sight	X	X	O
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Attitude	O
+is	X	X	O
+too	X	X	O
+large	X	X	O
+
+Fly	O
+with	X	X	O
+caution	X	X	O
+and	X	X	O
+ensure	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+remains	X	X	O
+within	X	X	O
+your	X	X	O
+line	X	X	O
+of	X	X	O
+sight	X	X	O
+
+Obstacle	B-FNC
+Avoidance	X	X	I-FNC
+will	X	X	O
+be	X	X	O
+disabled	X	X	O
+in	X	X	O
+landing	X	X	B-ACT
+
+Remote	O
+controller	X	X	O
+assisted	X	X	O
+takeoff	X	X	O
+initiated	X	X	O
+
+Home	O
+Point	X	X	O
+Updated	X	X	O
+
+High	O
+wind	X	X	B-ISS
+velocity	X	X	I-ISS
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+High	O
+wind	X	X	B-ISS
+velocity	X	X	I-ISS
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+High	O
+wind	X	X	B-ISS
+velocity	X	X	I-ISS
+Fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+Home	O
+Point	X	X	O
+Recorded	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+30m	X	X	O
+
+Max	B-ISS
+Flight	X	X	I-ISS
+Distance	X	X	I-ISS
+Reached	X	X	O
+Adjust	X	X	O
+in	X	X	O
+Main	X	X	O
+Controller	X	X	B-CMP
+Settings	X	X	B-FNC
+if	X	X	O
+necessary	X	X	O
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Home	O
+Point	X	X	O
+Recorded	X	X	O
+RTH	X	X	B-ACT
+Altitude	X	X	O
+30m	X	X	O
+
+Landing	B-ACT
+Canceled	X	X	O
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+In	B-STE
+Flight	X	X	I-STE
+
+In	B-STE
+Flight	X	X	I-STE
+
+Compass	B-CMP
+Redundancy	X	X	O
+Switch	X	X	O
+
+Tap	O
+the	X	X	O
+screen	X	X	O
+lightly	X	X	O
+to	X	X	O
+focus	X	X	O
+
+Obstacle	B-FNC
+Avoidance	X	X	I-FNC
+will	X	X	O
+be	X	X	O
+disabled	X	X	O
+in	X	X	O
+landing	X	X	B-ACT
+
+High	O
+wind	X	X	B-ISS
+velocity	X	X	I-ISS
+Ensure	X	X	O
+the	X	X	O
+aircraft	X	X	B-CMP
+remains	X	X	O
+within	X	X	O
+your	X	X	O
+line	X	X	O
+of	X	X	O
+sight	X	X	O
+and	X	X	O
+fly	X	X	O
+with	X	X	O
+caution	X	X	O
+
+Taking	B-ACT
+Off	X	X	I-ACT
+
+Tap	O
+the	X	X	O
+screen	X	X	O
+lightly	X	X	O
+to	X	X	O
+focus	X	X	O
