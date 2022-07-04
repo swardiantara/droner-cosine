@@ -110,6 +110,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Caches
+caches/
+/caches/
+__pycache__
+output
+
 # Spyder project settings
 .spyderproject
 .spyproject
