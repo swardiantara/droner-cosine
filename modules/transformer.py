@@ -7,7 +7,7 @@ from torch import nn
 import math
 from copy import deepcopy
 
-from .relative_transformer import RelativeMultiHeadAttn
+from .relative_transformer import RelativeMultiHeadAttn, RelativeSinusoidalPositionalEmbedding, RelativeEmbedding
 
 
 class MultiHeadAttn(nn.Module):
@@ -52,6 +52,75 @@ class MultiHeadAttn(nn.Module):
         attn = F.softmax(attn, dim=-1)  # batch_size x n_head x max_len x max_len
         attn = self.dropout_layer(attn)
         v = torch.matmul(attn, v)  # batch_size x n_head x max_len x d_model//n_head
+        v = v.transpose(1, 2).reshape(batch_size, max_len, -1)
+        v = self.fc(v)
+
+        return v
+
+
+class CosineAttn(nn.Module):
+    def __init__(self, d_model, n_head, dropout=0.1, scale=False):
+        """
+
+        :param d_model:
+        :param n_head:
+        :param scale: 是否scale输出
+        """
+        super().__init__()
+        assert d_model % n_head == 0
+
+        self.n_head = n_head
+        self.qkv_linear = nn.Linear(d_model, 3*d_model, bias=False)
+        self.fc = nn.Linear(d_model, d_model)
+        self.dropout_layer = nn.Dropout(dropout)
+
+        if scale:
+            self.scale = math.sqrt(d_model//n_head)
+        else:
+            self.scale = 1
+
+    def forward(self, x, mask):
+        """
+
+        :param x: bsz x max_len x d_model
+        :param mask: bsz x max_len
+        :return:
+        """
+        batch_size, max_len, d_model = x.size()
+        # print("Sebelum :", x.size())
+        x = self.qkv_linear(x)
+        q, k, v = torch.chunk(x, 3, dim=-1)
+
+        q = q.view(batch_size, max_len, self.n_head, -1)
+        k = k.view(batch_size, max_len, self.n_head, -1)
+        q_norm = q / q.norm(dim=3)[:, :, :, None]
+        k_norm = k / k.norm(dim=3)[:, :, :, None]
+        q_norm = q_norm.transpose(1, 2)
+        k_norm = k_norm.permute(0, 2, 3, 1)
+
+        # cos1 = torch.nn.CosineSimilarity(dim=1)
+        # cos3 = torch.nn.CosineSimilarity(dim=3)
+        # q = q.view(batch_size, max_len, self.n_head, -1).transpose(1, 2)
+        # k = k.view(batch_size, max_len, self.n_head, -1).permute(0, 2, 1, 3)
+        # # v = v.view(batch_size, max_len, self.n_head, -1).permute(0, 2, 1, 3)
+        # # k = k.view(batch_size, max_len, self.n_head, -1).permute(0, 2, 3, 1)
+        v = v.view(batch_size, max_len, self.n_head, -1).transpose(1, 2)
+        # print("Sesudaaaaaaaaaaah :", x.size())
+        # print(q.size())
+        # print(k.size())
+        # print(v.size())
+        # print("Head :", self.n_head)
+        # attn = torch.matmul(q, k)  # batch_size x n_head x max_len x max_len
+        cosine_attn = torch.matmul(q_norm, k_norm)
+        attn = cosine_attn/self.scale
+        # print(cosine_attn.size())
+        # attn.masked_fill_(mask=mask[:, None, None].eq(0), value=float('-inf'))
+
+        # batch_size x n_head x max_len x max_len
+        attn = self.dropout_layer(attn)
+        attn = F.softmax(attn, dim=-1)
+        # batch_size x n_head x max_len x d_model//n_head
+        v = torch.matmul(attn, v)
         v = v.transpose(1, 2).reshape(batch_size, max_len, -1)
         v = self.fc(v)
 
@@ -116,6 +185,7 @@ class TransformerEncoder(nn.Module):
         if dropout_attn is None:
             dropout_attn = dropout
         self.d_model = d_model
+        self.attn_type = attn_type
 
         if pos_embed is None:
             self.pos_embed = None
@@ -123,11 +193,15 @@ class TransformerEncoder(nn.Module):
             self.pos_embed = SinusoidalPositionalEmbedding(d_model, 0, init_size=1024)
         elif pos_embed == 'fix':
             self.pos_embed = LearnedPositionalEmbedding(1024, d_model, 0)
-
+        elif pos_embed == 'tener':
+            self.pos_embed = RelativeSinusoidalPositionalEmbedding(d_model//n_head, 0, 1024)
+        self_attn = None
         if attn_type == 'transformer':
             self_attn = MultiHeadAttn(d_model, n_head, dropout_attn, scale=scale)
         elif attn_type == 'adatrans':
             self_attn = RelativeMultiHeadAttn(d_model, n_head, dropout_attn, scale=scale)
+        elif attn_type == 'cosine':
+            self_attn = CosineAttn(d_model, n_head, dropout_attn, scale=scale)
 
         self.layers = nn.ModuleList([TransformerLayer(d_model, deepcopy(self_attn), feedforward_dim, after_norm, dropout)
                        for _ in range(num_layers)])
@@ -139,7 +213,7 @@ class TransformerEncoder(nn.Module):
         :param mask: batch_size x max_len. 有value的地方为1
         :return:
         """
-        if self.pos_embed is not None:
+        if self.pos_embed is not None and not (self.attn_type == 'adatrans' and self.pos_embed == 'tener'):
             x = x + self.pos_embed(mask)
 
         for layer in self.layers:

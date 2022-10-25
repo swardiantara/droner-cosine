@@ -1,5 +1,6 @@
 
 
+from unicodedata import bidirectional
 from fastNLP.modules import ConditionalRandomField, allowed_transitions
 from modules.transformer import TransformerEncoder
 
@@ -11,7 +12,7 @@ import torch.nn.functional as F
 class TENER(nn.Module):
     def __init__(self, tag_vocab, embed, num_layers, d_model, n_head, feedforward_dim, dropout,
                  after_norm=True, attn_type='adatrans',  bi_embed=None,
-                 fc_dropout=0.3, pos_embed=None, scale=False, dropout_attn=None):
+                 fc_dropout=0.3, pos_embed="sin", scale=False, dropout_attn=None):
         """
 
         :param tag_vocab: fastNLP Vocabulary
@@ -37,7 +38,8 @@ class TENER(nn.Module):
             embed_size += self.bi_embed.embed_size
 
         self.in_fc = nn.Linear(embed_size, d_model)
-
+        # Encoder
+        # self.lstm = nn.LSTM(input_size, hidden_size, num_layers, batch_first, bidirectional, dropout)
         self.transformer = TransformerEncoder(num_layers, d_model, n_head, feedforward_dim, dropout,
                                               after_norm=after_norm, attn_type=attn_type,
                                               scale=scale, dropout_attn=dropout_attn,

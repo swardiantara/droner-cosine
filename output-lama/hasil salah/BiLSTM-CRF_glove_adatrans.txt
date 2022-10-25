@@ -1,0 +1,16 @@
+Invalid instance which ends at line: 9614 has been dropped.
+Invalid instance which ends at line: 121 has been dropped.
+Invalid instance which ends at line: 216 has been dropped.
+Invalid instance which ends at line: 121 has been dropped.
+Invalid instance which ends at line: 216 has been dropped.
+Start constructing character vocabulary.
+In total, there are 60 distinct characters.
+Found 224 out of 437 words in the pre-training embedding.
+In total 3 datasets:
+	train has 1366 instances.
+	dev has 405 instances.
+	test has 405 instances.
+In total 2 vocabs:
+	words has 437 entries.
+	target has 13 entries.
+

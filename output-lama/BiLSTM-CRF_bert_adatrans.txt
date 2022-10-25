@@ -1,0 +1,18 @@
+Invalid instance which ends at line: 9614 has been dropped.
+Invalid instance which ends at line: 121 has been dropped.
+Invalid instance which ends at line: 216 has been dropped.
+Invalid instance which ends at line: 121 has been dropped.
+Invalid instance which ends at line: 216 has been dropped.
+Start constructing character vocabulary.
+In total, there are 60 distinct characters.
+loading vocabulary file /home/admin-user/.fastNLP/embedding/bert-base-cased/vocab.txt
+Load pre-trained BERT parameters from file /home/admin-user/.fastNLP/embedding/bert-base-cased/pytorch_model.bin.
+Bert Model will return 3 layers (layer-0 is embedding result): [4, -2, -1]
+In total 3 datasets:
+	train has 1366 instances.
+	dev has 405 instances.
+	test has 405 instances.
+In total 2 vocabs:
+	words has 437 entries.
+	target has 13 entries.
+

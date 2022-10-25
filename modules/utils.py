@@ -1,5 +1,5 @@
 # 设置随机数种子
-
+from fastNLP import MetricBase
 
 def set_rng_seed(rng_seed:int = None, random:bool = True, numpy:bool = True,
                  pytorch:bool=True, deterministic:bool=True):
@@ -34,3 +34,33 @@ def set_rng_seed(rng_seed:int = None, random:bool = True, numpy:bool = True,
         except:
             pass
     return rng_seed
+
+
+class EvaluateNER(MetricBase):
+    def __init__(self, pred=None, target=None):
+        super().__init__()
+        self.tp = 0
+        self.fp = 0
+        self.fn = 0
+        self.total_tp = 0
+        self_total_fp = 0
+        self.total_fn = 0
+        self.total_token = 0
+        self.acc_count = 0
+        self.total = 0
+
+
+    def evaluate(self, pred, target):
+        print('Preds: ')
+        print(pred)
+        print('Target: ')
+        print(target)
+        self.total += target.size(0)
+        self.acc_count += target.eq(pred).sum().item()
+
+    def get_metric(self, reset=True): # 在这里定义如何计算metric
+        acc = self.acc_count/self.total
+        if reset: # 是否清零以便重新计算
+            self.acc_count = 0
+            self.total = 0
+        return {'acc': acc}

@@ -1,0 +1,114 @@
+training epochs started 2022-08-13-03-21-13-461616
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.18 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.012195, pre=0.666667, rec=0.006154
+Evaluation on dev at Epoch 1/15. Step:171/2565: 
+SpanFPreRecMetric: f=0.012195, pre=0.666667, rec=0.006154
+
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.302632, pre=0.288301, rec=0.318462
+Evaluation on dev at Epoch 2/15. Step:342/2565: 
+SpanFPreRecMetric: f=0.302632, pre=0.288301, rec=0.318462
+
+Evaluate data in 0.2 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.418863, pre=0.381313, rec=0.464615
+Evaluation on dev at Epoch 3/15. Step:513/2565: 
+SpanFPreRecMetric: f=0.418863, pre=0.381313, rec=0.464615
+
+Evaluate data in 0.19 seconds!
+Evaluate data in 0.15 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.532806, pre=0.547967, rec=0.518462
+Evaluation on dev at Epoch 4/15. Step:684/2565: 
+SpanFPreRecMetric: f=0.532806, pre=0.547967, rec=0.518462
+
+Evaluate data in 0.19 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.552442, pre=0.57596, rec=0.530769
+Evaluation on dev at Epoch 5/15. Step:855/2565: 
+SpanFPreRecMetric: f=0.552442, pre=0.57596, rec=0.530769
+
+Evaluate data in 0.2 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.565354, pre=0.579032, rec=0.552308
+Evaluation on dev at Epoch 6/15. Step:1026/2565: 
+SpanFPreRecMetric: f=0.565354, pre=0.579032, rec=0.552308
+
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.524011, pre=0.484334, rec=0.570769
+Evaluation on dev at Epoch 7/15. Step:1197/2565: 
+SpanFPreRecMetric: f=0.524011, pre=0.484334, rec=0.570769
+
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.636435, pre=0.647059, rec=0.626154
+Evaluation on dev at Epoch 8/15. Step:1368/2565: 
+SpanFPreRecMetric: f=0.636435, pre=0.647059, rec=0.626154
+
+Evaluate data in 0.19 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.66566, pre=0.653333, rec=0.678462
+Evaluation on dev at Epoch 9/15. Step:1539/2565: 
+SpanFPreRecMetric: f=0.66566, pre=0.653333, rec=0.678462
+
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.66718, pre=0.66821, rec=0.666154
+Evaluation on dev at Epoch 10/15. Step:1710/2565: 
+SpanFPreRecMetric: f=0.66718, pre=0.66821, rec=0.666154
+
+Evaluate data in 0.22 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.707055, pre=0.704893, rec=0.709231
+Evaluation on dev at Epoch 11/15. Step:1881/2565: 
+SpanFPreRecMetric: f=0.707055, pre=0.704893, rec=0.709231
+
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.18 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.711111, pre=0.708397, rec=0.713846
+Evaluation on dev at Epoch 12/15. Step:2052/2565: 
+SpanFPreRecMetric: f=0.711111, pre=0.708397, rec=0.713846
+
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.660061, pre=0.654079, rec=0.666154
+Evaluation on dev at Epoch 13/15. Step:2223/2565: 
+SpanFPreRecMetric: f=0.660061, pre=0.654079, rec=0.666154
+
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.670157, pre=0.652111, rec=0.689231
+Evaluation on dev at Epoch 14/15. Step:2394/2565: 
+SpanFPreRecMetric: f=0.670157, pre=0.652111, rec=0.689231
+
+Evaluate data in 0.18 seconds!
+Evaluate data in 0.14 seconds!
+EvaluateCallback evaluation on data-test:
+SpanFPreRecMetric: f=0.709825, pre=0.702866, rec=0.716923
+Evaluation on dev at Epoch 15/15. Step:2565/2565: 
+SpanFPreRecMetric: f=0.709825, pre=0.702866, rec=0.716923
+
+Best test performance(may not correspond to the best dev performance):{'SpanFPreRecMetric': {'f': 0.711111, 'pre': 0.708397, 'rec': 0.713846}} achieved at Epoch:12.
+Best test performance(correspond to the best dev performance):{'SpanFPreRecMetric': {'f': 0.711111, 'pre': 0.708397, 'rec': 0.713846}} achieved at Epoch:12.
+
+In Epoch:12/Step:2052, got best dev performance:
+SpanFPreRecMetric: f=0.711111, pre=0.708397, rec=0.713846
+Evaluate data in 0.18 seconds!
+[tester] 
+SpanFPreRecMetric: f-issue=0.863158, pre-issue=0.921348, rec-issue=0.811881, f-function=0.744444, pre-function=0.638095, rec-function=0.893333, f-component=0.726562, pre-component=0.75, rec-component=0.704545, f-action=0.678788, pre-action=0.861538, rec-action=0.56, f-state=0.617978, pre-state=0.578947, rec-state=0.662651, f-parameter=0.656977, pre-parameter=0.610811, rec-parameter=0.710692, f=0.709825, pre=0.702866, rec=0.716923

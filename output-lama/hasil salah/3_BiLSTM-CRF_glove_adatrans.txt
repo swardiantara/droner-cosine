@@ -1,0 +1,76 @@
+input fields after batch(if batch size is 2):
+	target: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2, 3]) 
+	words: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2, 3]) 
+	seq_len: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2]) 
+target fields after batch(if batch size is 2):
+	target: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2, 3]) 
+	seq_len: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2]) 
+
+training epochs started 2022-08-11-22-20-50-921014
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 1/15. Step:43/645: 
+SpanFPreRecMetric: f-component=0.79562, pre-component=0.767606, rec-component=0.825758, f-function=0.802395, pre-function=0.728261, rec-function=0.893333, f-parameter=0.885135, pre-parameter=0.956204, rec-parameter=0.823899, f-state=0.853333, pre-state=0.955224, rec-state=0.771084, f-action=0.542857, pre-action=0.95, rec-action=0.38, f-issue=0.803828, pre-issue=0.777778, rec-issue=0.831683, f=0.797735, pre=0.841297, rec=0.758462
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 2/15. Step:86/645: 
+SpanFPreRecMetric: f-component=0.904564, pre-component=1.0, rec-component=0.825758, f-function=0.807229, pre-function=0.736264, rec-function=0.893333, f-parameter=0.804805, pre-parameter=0.770115, rec-parameter=0.842767, f-state=0.835616, pre-state=0.968254, rec-state=0.73494, f-action=0.56, pre-action=0.84, rec-action=0.42, f-issue=0.819512, pre-issue=0.807692, rec-issue=0.831683, f=0.800967, pre=0.840948, rec=0.764615
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 3/15. Step:129/645: 
+SpanFPreRecMetric: f-component=0.892562, pre-component=0.981818, rec-component=0.818182, f-function=0.795455, pre-function=0.693069, rec-function=0.933333, f-parameter=0.89726, pre-parameter=0.984962, rec-parameter=0.823899, f-state=0.853333, pre-state=0.955224, rec-state=0.771084, f-action=0.605263, pre-action=0.884615, rec-action=0.46, f-issue=0.833333, pre-issue=0.825243, rec-issue=0.841584, f=0.828947, pre=0.890459, rec=0.775385
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 4/15. Step:172/645: 
+SpanFPreRecMetric: f-component=0.904564, pre-component=1.0, rec-component=0.825758, f-function=0.802395, pre-function=0.728261, rec-function=0.893333, f-parameter=0.847458, pre-parameter=0.919118, rec-parameter=0.786164, f-state=0.938272, pre-state=0.962025, rec-state=0.915663, f-action=0.531469, pre-action=0.883721, rec-action=0.38, f-issue=0.970297, pre-issue=0.970297, rec-issue=0.970297, f=0.847934, pre=0.916071, rec=0.789231
+
+Evaluate data in 0.12 seconds!
+Evaluation on dev at Epoch 5/15. Step:215/645: 
+SpanFPreRecMetric: f-component=0.879032, pre-component=0.939655, rec-component=0.825758, f-function=0.802395, pre-function=0.728261, rec-function=0.893333, f-parameter=0.886667, pre-parameter=0.943262, rec-parameter=0.836478, f-state=0.85906, pre-state=0.969697, rec-state=0.771084, f-action=0.542857, pre-action=0.95, rec-action=0.38, f-issue=0.960784, pre-issue=0.951456, rec-issue=0.970297, f=0.842715, pre=0.912186, rec=0.783077
+
+Evaluate data in 0.12 seconds!
+Evaluation on dev at Epoch 6/15. Step:258/645: 
+SpanFPreRecMetric: f-component=0.882591, pre-component=0.947826, rec-component=0.825758, f-function=0.807229, pre-function=0.736264, rec-function=0.893333, f-parameter=0.867314, pre-parameter=0.893333, rec-parameter=0.842767, f-state=0.85906, pre-state=0.969697, rec-state=0.771084, f-action=0.539007, pre-action=0.926829, rec-action=0.38, f-issue=0.805825, pre-issue=0.790476, rec-issue=0.821782, f=0.812808, pre=0.871479, rec=0.761538
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 7/15. Step:301/645: 
+SpanFPreRecMetric: f-component=0.865079, pre-component=0.908333, rec-component=0.825758, f-function=0.807229, pre-function=0.736264, rec-function=0.893333, f-parameter=0.880795, pre-parameter=0.93007, rec-parameter=0.836478, f-state=0.85906, pre-state=0.969697, rec-state=0.771084, f-action=0.575342, pre-action=0.913043, rec-action=0.42, f-issue=0.811594, pre-issue=0.792453, rec-issue=0.831683, f=0.816694, pre=0.872378, rec=0.767692
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 8/15. Step:344/645: 
+SpanFPreRecMetric: f-component=0.874494, pre-component=0.93913, rec-component=0.818182, f-function=0.788235, pre-function=0.705263, rec-function=0.893333, f-parameter=0.89726, pre-parameter=0.984962, rec-parameter=0.823899, f-state=0.868421, pre-state=0.956522, rec-state=0.795181, f-action=0.61745, pre-action=0.938776, rec-action=0.46, f-issue=0.819512, pre-issue=0.807692, rec-issue=0.831683, f=0.826337, pre=0.888496, rec=0.772308
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 9/15. Step:387/645: 
+SpanFPreRecMetric: f-component=0.889796, pre-component=0.964602, rec-component=0.825758, f-function=0.802395, pre-function=0.728261, rec-function=0.893333, f-parameter=0.87013, pre-parameter=0.899329, rec-parameter=0.842767, f-state=0.853333, pre-state=0.955224, rec-state=0.771084, f-action=0.575342, pre-action=0.913043, rec-action=0.42, f-issue=0.819512, pre-issue=0.807692, rec-issue=0.831683, f=0.819001, pre=0.875657, rec=0.769231
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 10/15. Step:430/645: 
+SpanFPreRecMetric: f-component=0.883534, pre-component=0.940171, rec-component=0.833333, f-function=0.828402, pre-function=0.744681, rec-function=0.933333, f-parameter=0.886667, pre-parameter=0.943262, rec-parameter=0.836478, f-state=0.825806, pre-state=0.888889, rec-state=0.771084, f-action=0.57931, pre-action=0.933333, rec-action=0.42, f-issue=0.827586, pre-issue=0.823529, rec-issue=0.831683, f=0.823915, pre=0.880911, rec=0.773846
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 11/15. Step:473/645: 
+SpanFPreRecMetric: f-component=0.886179, pre-component=0.95614, rec-component=0.825758, f-function=0.864516, pre-function=0.8375, rec-function=0.893333, f-parameter=0.884488, pre-parameter=0.930556, rec-parameter=0.842767, f-state=0.855172, pre-state=1.0, rec-state=0.746988, f-action=0.527607, pre-action=0.68254, rec-action=0.43, f-issue=0.841584, pre-issue=0.841584, rec-issue=0.841584, f=0.823723, pre=0.886525, rec=0.769231
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 12/15. Step:516/645: 
+SpanFPreRecMetric: f-component=0.885246, pre-component=0.964286, rec-component=0.818182, f-function=0.864516, pre-function=0.8375, rec-function=0.893333, f-parameter=0.875, pre-parameter=0.917241, rec-parameter=0.836478, f-state=0.826667, pre-state=0.925373, rec-state=0.746988, f-action=0.477273, pre-action=0.552632, rec-action=0.42, f-issue=0.819512, pre-issue=0.807692, rec-issue=0.831683, f=0.80389, pre=0.849315, rec=0.763077
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 13/15. Step:559/645: 
+SpanFPreRecMetric: f-component=0.882591, pre-component=0.947826, rec-component=0.825758, f-function=0.864516, pre-function=0.8375, rec-function=0.893333, f-parameter=0.875, pre-parameter=0.917241, rec-parameter=0.836478, f-state=0.85906, pre-state=0.969697, rec-state=0.771084, f-action=0.535032, pre-action=0.736842, rec-action=0.42, f-issue=0.819512, pre-issue=0.807692, rec-issue=0.831683, f=0.820049, pre=0.880071, rec=0.767692
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 14/15. Step:602/645: 
+SpanFPreRecMetric: f-component=0.882591, pre-component=0.947826, rec-component=0.825758, f-function=0.802395, pre-function=0.728261, rec-function=0.893333, f-parameter=0.863636, pre-parameter=0.892617, rec-parameter=0.836478, f-state=0.836601, pre-state=0.914286, rec-state=0.771084, f-action=0.539007, pre-action=0.926829, rec-action=0.38, f-issue=0.807692, pre-issue=0.785047, rec-issue=0.831683, f=0.808824, pre=0.862369, rec=0.761538
+
+Evaluate data in 0.13 seconds!
+Evaluation on dev at Epoch 15/15. Step:645/645: 
+SpanFPreRecMetric: f-component=0.882591, pre-component=0.947826, rec-component=0.825758, f-function=0.807229, pre-function=0.736264, rec-function=0.893333, f-parameter=0.887417, pre-parameter=0.937063, rec-parameter=0.842767, f-state=0.842105, pre-state=0.927536, rec-state=0.771084, f-action=0.57931, pre-action=0.933333, rec-action=0.42, f-issue=0.819512, pre-issue=0.807692, rec-issue=0.831683, f=0.821693, pre=0.881834, rec=0.769231
+
+Reloaded the best model.
+
+In Epoch:2/Step:86, got best dev performance:
+SpanFPreRecMetric: f-component=0.904564, pre-component=1.0, rec-component=0.825758, f-function=0.807229, pre-function=0.736264, rec-function=0.893333, f-parameter=0.804805, pre-parameter=0.770115, rec-parameter=0.842767, f-state=0.835616, pre-state=0.968254, rec-state=0.73494, f-action=0.56, pre-action=0.84, rec-action=0.42, f-issue=0.819512, pre-issue=0.807692, rec-issue=0.831683, f=0.800967, pre=0.840948, rec=0.764615
+Evaluate data in 0.23 seconds!
+[tester] 
+SpanFPreRecMetric: f-component=0.904564, pre-component=1.0, rec-component=0.825758, f-function=0.807229, pre-function=0.736264, rec-function=0.893333, f-parameter=0.804805, pre-parameter=0.770115, rec-parameter=0.842767, f-state=0.835616, pre-state=0.968254, rec-state=0.73494, f-action=0.56, pre-action=0.84, rec-action=0.42, f-issue=0.819512, pre-issue=0.807692, rec-issue=0.831683, f=0.800967, pre=0.840948, rec=0.764615

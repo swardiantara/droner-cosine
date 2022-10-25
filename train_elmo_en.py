@@ -35,7 +35,7 @@ elif dataset == 'conll2003':
     head_dims = 128
     num_layers = 2
     lr = 0.0001
-    attn_type = 'adatrans'
+    attn_type = 'cosine'
     optim_type = 'adam'
     trans_dropout = 0.45  # 有可能是0.4
     batch_size = 32
@@ -67,9 +67,9 @@ def load_data():
     # 替换路径
     if dataset == 'conll2003':
         # conll2003的lr不能超过0.002
-        paths = {'test': "../data/conll2003/test.txt",
-                 'train': "../data/conll2003/train.txt",
-                 'dev': "../data/conll2003/dev.txt"}
+        paths = {'test': "./data/conll2003/test.txt",
+                 'train': "./data/conll2003/train.txt",
+                 'dev': "./data/conll2003/dev.txt"}
         data = Conll2003NERPipe(encoding_type=encoding_type).process_from_file(paths)
     elif dataset == 'en-ontonotes':
         paths = '../data/en-ontonotes/english'
@@ -99,7 +99,7 @@ def load_data():
                  word_dropout=0.0, dropout=0.5, cache_word_reprs=False)
     embed.set_mix_weights_requires_grad()
 
-    embed = StackEmbedding([embed, word_embed, char_embed], dropout=0, word_dropout=0.02)
+    embed = StackEmbedding([embed, char_embed], dropout=0, word_dropout=0.02)
 
     return data, embed
 

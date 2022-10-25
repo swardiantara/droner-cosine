@@ -1,0 +1,20 @@
+input fields after batch(if batch size is 2):
+	target: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2, 3]) 
+	words: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2, 3]) 
+	seq_len: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2]) 
+target fields after batch(if batch size is 2):
+	target: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2, 3]) 
+	seq_len: (1)type:torch.Tensor (2)dtype:torch.int64, (3)shape:torch.Size([2]) 
+
+training epochs started 2022-08-19-13-56-56-179740
+Evaluate data in 0.96 seconds!
+Evaluation on dev at Epoch 1/10. Step:43/430: 
+SpanFPreRecMetric: f-function=0.688525, pre-function=0.583333, rec-function=0.84, f-issue=0.876847, pre-issue=0.872549, rec-issue=0.881188, f-parameter=0.831395, pre-parameter=0.772973, rec-parameter=0.899371, f-component=0.867769, pre-component=0.954545, rec-component=0.795455, f-action=0.371429, pre-action=0.65, rec-action=0.26, f-state=0.539007, pre-state=0.655172, rec-state=0.457831, f=0.740623, pre=0.769486, rec=0.713846
+
+Reloaded the best model.
+
+In Epoch:1/Step:43, got best dev performance:
+SpanFPreRecMetric: f-function=0.688525, pre-function=0.583333, rec-function=0.84, f-issue=0.876847, pre-issue=0.872549, rec-issue=0.881188, f-parameter=0.831395, pre-parameter=0.772973, rec-parameter=0.899371, f-component=0.867769, pre-component=0.954545, rec-component=0.795455, f-action=0.371429, pre-action=0.65, rec-action=0.26, f-state=0.539007, pre-state=0.655172, rec-state=0.457831, f=0.740623, pre=0.769486, rec=0.713846
+Evaluate data in 1.07 seconds!
+[tester] 
+SpanFPreRecMetric: f-function=0.688525, pre-function=0.583333, rec-function=0.84, f-issue=0.876847, pre-issue=0.872549, rec-issue=0.881188, f-parameter=0.831395, pre-parameter=0.772973, rec-parameter=0.899371, f-component=0.867769, pre-component=0.954545, rec-component=0.795455, f-action=0.371429, pre-action=0.65, rec-action=0.26, f-state=0.539007, pre-state=0.655172, rec-state=0.457831, f=0.740623, pre=0.769486, rec=0.713846
