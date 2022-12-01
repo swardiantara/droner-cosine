@@ -1,4540 +1,126 @@
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
+Home X X O
+Point X X O
+recorded X X O
 
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
 
-Home X X B-PARAMETER
-Point X X I-PARAMETER
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+Home X X O
+Point X X O
 Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
+RTH X X B-ACT
+Altitude X X O
 30m X X O
-. X X O
 
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
+Large X X O
+Wind X X B-ISS
+Velocity X X I-ISS
 
-Camera X X B-STATE
-Settings X X I-STATE
-Adjusted X X O
-to X X O
-ActiveTrack X X B-STATE
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Your X X O
-palm X X O
+Attitude X X O
 is X X O
 too X X O
-far X X O
-away X X O
-from X X O
-the X X O
-aircraft X X B-COMPONENT
-. X X O
-Please X X O
-step X X O
-closer X X O
-. X X O
+large X X O
 
-Your X X O
-palm X X O
-is X X O
-too X X O
-far X X O
-away X X O
-from X X O
+Weak X X O
+signal X X O
+Avoid X X O
+blocking X X O
 the X X O
-aircraft X X B-COMPONENT
-. X X O
-Please X X O
-step X X O
-closer X X O
-. X X O
-
-Your X X O
-palm X X O
-is X X O
-too X X O
-close X X O
+antennas X X O
+and X X O
+keep X X O
+the X X O
+antennas X X O
+parallel X X O
 to X X O
+and X X O
+facing X X O
+toward X X O
 the X X O
-aircraft X X B-COMPONENT
-. X X O
-Please X X O
-step X X O
-farther X X O
-away X X O
-. X X O
+aircraft X X B-CMP
+during X X O
+flight X X O
 
-PalmControl X X B-ACTION
-in X X O
-Process X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-PalmControl X X B-ACTION
-in X X O
-Process X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Your X X O
-palm X X O
-is X X O
-too X X O
-close X X O
-to X X O
-the X X O
-aircraft X X B-COMPONENT
-. X X O
-Please X X O
-step X X O
-farther X X O
-away X X O
-. X X O
+Landing X X B-CMP
+Gear X X I-CMP
+Lowering X X B-ACT
 
-Your X X O
-palm X X O
-is X X O
-too X X O
-far X X O
-away X X O
-from X X O
-the X X O
-aircraft X X B-COMPONENT
-. X X O
-Please X X O
-step X X O
-closer X X O
-. X X O
-
-Your X X O
-palm X X O
-is X X O
-too X X O
-close X X O
-to X X O
-the X X O
-aircraft X X B-COMPONENT
-. X X O
-Please X X O
-step X X O
-farther X X O
-away X X O
-. X X O
-
-PalmControl X X B-ACTION
-in X X O
-Process X X O
-
-PalmControl X X B-ACTION
-in X X O
-Process X X O
-
-PalmControl X X B-ACTION
-in X X O
-Process X X O
-
-PalmControl X X B-ACTION
-in X X O
-Process X X O
-
-Camera X X B-STATE
-Settings X X I-STATE
-Adjusted X X O
-to X X O
-ActiveTrack X X B-STATE
-
-Drag X X O
-a X X O
-box X X O
-around X X O
-or X X O
-tap X X O
-a X X O
-target X X O
-on X X O
-screen X X O
-. X X O
-Then X X O
-tap X X O
-Go X X O
-. X X O
-
-Camera X X B-STATE
-Settings X X I-STATE
-Adjusted X X O
-to X X O
-ActiveTrack X X B-STATE
-
-Drag X X O
-a X X O
-box X X O
-around X X O
-or X X O
-tap X X O
-a X X O
-target X X O
-on X X O
-screen X X O
-. X X O
-Then X X O
-tap X X O
-Go X X O
-. X X O
-
-Can X X O
-not X X O
-Identify X X O
-Subject X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Compass X X B-ISSUE
-Interference X X I-ISSUE
-. X X O
-Temp X X O
-Max X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98 X X O
-ft X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Obstacle X X O
-Avoided X X O
-. X X O
-Revise X X O
-Flight X X B-PARAMETER
-Route X X I-PARAMETER
-
-Take X X O
+To X X O
+take X X O
 off X X O
-and X X O
-retry X X O
-this X X O
-function X X O
-. X X O
-
-Battery X X B-PARAMETER
-temperature X X I-PARAMETER
-is X X O
-below X X O
-15 X X O
-degrees X X O
-Celsius X X O
-. X X O
-Warm X X O
-up X X O
-the X X O
-battery X X B-PARAMETER
-temperature X X I-PARAMETER
-to X X O
-above X X O
-25 X X O
-degree X X O
-Celsius X X O
-to X X O
-ensure X X O
-a X X O
-safe X X O
-flight X X O
-. X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-13 X X O
-. X X O
-
-Battery X X B-PARAMETER
-temperature X X I-PARAMETER
-is X X O
-below X X O
-15 X X O
-degrees X X O
-Celsius X X O
-. X X O
-Warm X X O
-up X X O
-the X X O
-battery X X B-PARAMETER
-temperature X X I-PARAMETER
-to X X O
-above X X O
-25 X X O
-degree X X O
-Celsius X X O
-to X X O
-ensure X X O
-a X X O
-safe X X O
-flight X X O
-. X X O
-
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Paused X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-21 X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Paused X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Command X X B-ISSUE
-Timeout X X I-ISSUE
-
-Low X X B-ISSUE
-Power X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-
-Low X X B-ISSUE
-Power X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Command X X B-ISSUE
-Timeout X X I-ISSUE
-
-Low X X B-ISSUE
-Power X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-
-Low X X B-ISSUE
-Power X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-8 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Exited X X B-ACTION
-Visual X X B-FUNCTION
-Avoidance X X I-FUNCTION
-System X X I-FUNCTION
-. X X O
-
-Motors X X B-COMPONENT
-Started X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
 in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-if X X O
-necessary X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-8 X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Motors X X B-COMPONENT
-Started X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-FUNCTION
-Protection X X I-FUNCTION
-Activated X X O
-. X X O
-Aircraft X X B-COMPONENT
-will X X O
-decelerate X X O
-during X X O
-landing X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
-
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
-
-Image X X B-FUNCTION
-Transmission X X I-FUNCTION
-Recovered X X O
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-returning X X B-ACTION
-home X X I-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-FUNCTION
-Protection X X I-FUNCTION
-Activated X X O
-. X X O
-Aircraft X X B-COMPONENT
-will X X O
-decelerate X X O
-during X X O
-landing X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Motors X X B-COMPONENT
-Started X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Magnetic X X B-ISSUE
-Filed X X I-ISSUE
-Interference X X I-ISSUE
-. X X O
-Exit X X O
-P X X B-STATE
-- X X O
-GPS X X I-STATE
-Mode X X I-STATE
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-5 X X O
-. X X O
-
-Motors X X B-COMPONENT
-Started X X O
-. X X O
-
-Motors X X B-COMPONENT
-Started X X O
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-FUNCTION
-Restored X X O
-( X X O
-after X X O
-0 X X O
-m X X O
-1.5s X X O
-) X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Strong X X B-ISSUE
-wireless X X I-ISSUE
-interference X X I-ISSUE
-. X X O
-Please X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Magnetic X X B-ISSUE
-Filed X X I-ISSUE
-Interference X X I-ISSUE
-. X X O
-Exit X X O
-P X X B-STATE
-- X X O
-GPS X X I-STATE
-Mode X X I-STATE
-. X X O
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-Yaw X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Current X X O
-RTH X X B-PARAMETER
-route X X I-PARAMETER
-will X X O
-pass X X O
-a X X O
-No X X O
-- X X O
-Fly X X O
-zone X X O
-. X X O
-Pay X X O
-attention X X O
-to X X O
-the X X O
-aircraft X X B-COMPONENT
-'s X X O
-position X X O
-to X X O
-avoid X X O
-RTH X X B-ISSUE
-failure X X I-ISSUE
-. X X O
-
-Compass X X B-ISSUE
-Error X X I-ISSUE
-. X X O
-Exit X X B-ACTION
-P X X B-STATE
-- X X O
-GPS X X I-STATE
-Mode X X I-STATE
-
-In X X O
+mode X X O
+toggle X X O
 Flight X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-The X X O
-remaining X X O
-battery X X B-COMPONENT
-is X X O
-only X X O
-enough X X O
-for X X O
-RTH X X B-ACTION
-. X X O
-Return X X O
-home X X O
-now X X O
-. X X O
-
-Low X X B-ISSUE
-Power X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
+Mode X X O
+Switch X X O
 to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-
-Fly X X O
-with X X O
-caution X X O
+another X X O
+mode X X O
 and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
+then X X O
+toggle X X O
+it X X O
+back X X O
 
-The X X O
-remaining X X O
-battery X X B-COMPONENT
-is X X O
-only X X O
-enough X X O
-for X X O
-RTH X X B-ACTION
-. X X O
-Return X X O
-home X X O
-now X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
+Landing X X B-CMP
+gear X X I-CMP
+Avoidance X X O
 Disabled X X O
-. X X O
 
-Landing X X B-FUNCTION
-Protection X X I-FUNCTION
-Activated X X O
-. X X O
-Aircraft X X B-COMPONENT
-will X X O
-decelerate X X O
-during X X O
-landing X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
+Strong X X O
+Interference X X B-ISS
 to X X O
-Land X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Altitude X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-
-Subject X X B-ISSUE
-too X X I-ISSUE
-Small X X I-ISSUE
-. X X O
-Get X X O
-Closer X X O
-and X X O
-retry X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Altitude X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-FUNCTION
-Protection X X I-FUNCTION
-Activated X X O
-. X X O
-Aircraft X X B-COMPONENT
-will X X O
-decelerate X X O
-during X X O
-landing X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-close X X O
-to X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-go X X O
-home X X O
-shifts X X O
-to X X O
-landing X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-FUNCTION
-Protection X X I-FUNCTION
-Activated X X O
-. X X O
-Aircraft X X B-COMPONENT
-will X X O
-decelerate X X O
-during X X O
-landing X X O
-. X X O
-
-Landing X X B-ACTION
-Canceled X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-close X X O
-to X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-go X X O
-home X X O
-shifts X X O
-to X X O
-landing X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Landing X X B-FUNCTION
-Protection X X I-FUNCTION
-Activated X X O
-. X X O
-Aircraft X X B-COMPONENT
-will X X O
-decelerate X X O
-during X X O
-landing X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Landing X X B-FUNCTION
-Protection X X I-FUNCTION
-Activated X X O
-. X X O
-Aircraft X X B-COMPONENT
-will X X O
-decelerate X X O
-during X X O
-landing X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-has X X O
-been X X O
-disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Roll X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-has X X O
-been X X O
-disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-30 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-disabled X X O
-. X X O
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-has X X O
-been X X O
-disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Gimbal X X B-PARAMETER
-Roll X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-disabled X X O
-. X X O
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-has X X O
-been X X O
-disabled X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Reached X X O
-Movement X X B-PARAMETER
-Limit X X I-PARAMETER
-
-Landing X X B-COMPONENT
-gear X X I-COMPONENT
-lowered X X O
-. X X O
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-Disabled X X O
-. X X O
-
-Weak X X B-ISSUE
-GPS X X I-ISSUE
-signal X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-in X X O
-Attitude X X B-STATE
-mode X X I-STATE
-and X X O
-hovering X X O
+Aircraft X X B-CMP
+Signal X X O
+interruption X X O
 may X X O
 be X X O
-unstable X X O
-. X X O
+more X X O
+likely X X O
 Fly X X O
 with X X O
 caution X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Yaw X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Yaw X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-13 X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-17 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Can X X O
-not X X O
-switch X X O
-flight X X B-PARAMETER
-mode X X I-PARAMETER
-. X X O
-Turn X X O
-on X X O
-" X X O
-Multiple X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-" X X O
-to X X O
-enable X X O
-Atti X X B-STATE
-and X X O
-Sport X X B-STATE
-Modes X X I-STATE
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-18 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-18 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-19 X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-19 X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-19 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-19 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-19 X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-3 X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-3 X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-7 X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Propulsion X X O
-output X X O
-has X X O
-been X X O
-limited X X O
-to X X O
-ensure X X O
-battery X X B-PARAMETER
-health X X I-PARAMETER
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-close X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Initiating X X O
-Return X X B-ACTION
-to X X I-ACTION
-Home X X I-ACTION
-will X X O
-now X X O
-trigger X X O
-Auto X X B-STATE
-Landing X X I-STATE
-. X X O
-
-Intelligent X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-have X X O
-not X X O
-been X X O
-enabled X X O
-. X X O
-Enable X X O
-this X X O
-option X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-needed X X O
-. X X O
-
-Intelligent X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-have X X O
-not X X O
-been X X O
-enabled X X O
-. X X O
-Enable X X O
-this X X O
-option X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-needed X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Yaw X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-
-Gimbal X X B-PARAMETER
-Yaw X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-
-Gimbal X X B-PARAMETER
-Yaw X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-
-Propulsion X X O
-output X X O
-has X X O
-been X X O
-limited X X O
-to X X O
-ensure X X O
-battery X X B-PARAMETER
-health X X I-PARAMETER
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-close X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Initiating X X O
-Return X X B-ACTION
-to X X I-ACTION
-Home X X I-ACTION
-will X X O
-now X X O
-trigger X X O
-Auto X X B-STATE
-Landing X X I-STATE
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Gimbal X X B-PARAMETER
-Pitch X X I-PARAMETER
-Limit X X I-PARAMETER
-Reached X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-
-Can X X O
-not X X O
-switch X X O
-flight X X B-PARAMETER
-mode X X I-PARAMETER
-. X X O
-Turn X X O
-on X X O
-" X X O
-Multiple X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-" X X O
-to X X O
-enable X X O
-Atti X X B-STATE
-and X X O
-Sport X X B-STATE
-Modes X X I-STATE
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-65 X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Can X X O
-not X X O
-switch X X O
-flight X X B-PARAMETER
-mode X X I-PARAMETER
-. X X O
-Turn X X O
-on X X O
-" X X O
-Multiple X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-" X X O
-to X X O
-enable X X O
-Atti X X B-STATE
-and X X O
-Sport X X B-STATE
-Modes X X I-STATE
-. X X O
-
-Can X X O
-not X X O
-switch X X O
-flight X X B-PARAMETER
-mode X X I-PARAMETER
-. X X O
-Turn X X O
-on X X O
-" X X O
-Multiple X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-" X X O
-to X X O
-enable X X O
-Atti X X B-STATE
-and X X O
-Sport X X B-STATE
-Modes X X I-STATE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-Landing X X B-ACTION
-. X X O
 
 Fly X X O
 with X X O
@@ -4542,2911 +128,956 @@ caution X X O
 and X X O
 ensure X X O
 the X X O
-aircraft X X B-COMPONENT
+aircraft X X B-CMP
 remains X X O
 within X X O
 your X X O
 line X X O
 of X X O
 sight X X O
-. X X O
 
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
+Switched X X O
+to X X O
+T X X B-STE
+Tripod X X B-STE
+Mode X X I-STE
 
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Landing X X B-ACTION
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Mobile X X B-PARAMETER
-device X X I-PARAMETER
-version X X I-PARAMETER
+In X X B-STE
+Flight X X I-STE
+
+Attitude X X O
+is X X O
 too X X O
-old X X O
-to X X O
-support X X O
-HD X X B-FUNCTION
-image X X I-FUNCTION
-transmission X X I-FUNCTION
-and X X O
-the X X O
-image X X B-PARAMETER
-transmission X X I-PARAMETER
-mode X X I-PARAMETER
-has X X O
-been X X O
-switch X X O
-to X X O
-normal X X B-STATE
-mode X X I-STATE
-. X X O
+large X X O
 
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
+Remote X X O
+controller X X O
+assisted X X O
+takeoff X X O
+initiated X X O
 
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
 is X X O
-12 X X O
-. X X O
+9 X X O
 
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-12 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
+Home X X O
+Point X X O
 Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
+RTH X X O
+Altitude X X O
 30m X X O
-. X X O
 
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Switched X X O
 to X X O
-focus X X O
-. X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
 
-Mobile X X B-COMPONENT
-device X X I-COMPONENT
-CPU X X I-COMPONENT
+Switched X X I-STE
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+The X X O
+remaining X X O
+battery X X B-CMP
+is X X O
+only X X O
+enough X X O
+for X X O
+RTH X X B-ACT
+Return X X O
+home X X O
+now X X O
+
+Landing X X B-CMP
+gear X X I-CMP
+Avoidance X X O
+Disabled X X O
+
+Switched X X O
+to X X O
+S X X B-STE
+Sport X X B-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Landing X X B-FNC
+Protection X X I-FNC
+Activated X X O
+Aircraft X X B-CMP
+will X X O
+decelerate X X O
+during X X O
+landing X X B-ACT
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Maximum X X B-ISS
+flight X X I-ISS
+distance X X I-ISS
+reached X X O
+Adjust X X O
+the X X O
+distance X X O
+in X X O
+MC X X O
+Settings X X B-FNC
+if X X O
+required X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GEO X X O
+You X X O
+are X X O
+in X X O
+a X X O
+Warning X X B-ISS
+Zone X X I-ISS
+School X X O
+Fly X X O
+with X X O
+caution X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+RTH X X B-ACT
+Altitude X X O
+65FT X X O
+
+In X X B-STE
+Flight X X I-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X O
+Avoided X X B-ACT
+Revise X X O
+Flight X X O
+Route X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+To X X O
+take X X O
+off X X O
+in X X O
+mode X X O
+toggle X X O
+Flight X X O
+Mode X X O
+Switch X X O
+to X X O
+another X X O
+mode X X O
+and X X O
+then X X O
+toggle X X O
+it X X O
+back X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Landing X X B-FNC
+Protection X X I-FNC
+Activated X X O
+Aircraft X X B-CMP
+will X X O
+decelerate X X O
+during X X O
+landing X X B-ACT
+
+Drag X X O
+a X X O
+box X X O
+around X X O
+or X X O
+tap X X O
+a X X O
+target X X O
+on X X O
+screen X X O
+Then X X O
+tap X X O
+Go X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Distance X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+ÃÂÃÂ X X O
+30m X X O
+
+Compass X X B-CMP
+abnormalSolution X X O
+1 X X O
+Ensure X X O
+there X X O
+are X X O
+no X X O
+magnets X X O
+or X X O
+metal X X O
+objects X X O
+near X X O
+the X X O
+aircraft X X B-CMP
+The X X O
+ground X X O
+or X X O
+walls X X O
+may X X O
+contain X X O
+metal X X O
+Move X X O
+away X X O
+from X X O
+sources X X O
+of X X O
+interference X X B-ISS
+before X X O
+attempting X X O
+flight X X O
+2 X X O
+Calibrate X X B-ACT
+Compass X X B-CMP
+Before X X O
+Takeoff X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Large X X O
+Wind X X B-ISS
+Velocity X X I-ISS
+
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
+Fly X X O
+with X X O
+caution X X O
+
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
+Fly X X O
+with X X O
+caution X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Switched X X O
+to X X O
+S X X B-STE
+Sport X X B-STE
+Mode X X I-STE
+
+Max X X B-ISS
+Flight X X I-ISS
+Distance X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+Home X X O
+Point X X O
+Updated X X O
+
+Home X X O
+Point X X O
+Updated X X O
+
+Gimbal X X B-CMP
+Pitch X X I-CMP
+Limit X X O
+Reached X X O
+
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Distance X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Landing X X B-FNC
+Protection X X I-FNC
+Activated X X O
+Aircraft X X B-CMP
+will X X O
+decelerate X X O
+during X X O
+landing X X B-ACT
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Switched X X O
+to X X O
+S X X B-STE
+Sport X X B-STE
+
+Mobile X X O
+device X X O
+CPU X X B-CMP
 fully X X O
 loaded X X O
-. X X O
 Related X X O
 performance X X O
 will X X O
 be X X O
 affected X X O
-. X X O
 
-Obstacle X X O
-Avoided X X O
-. X X O
-Revise X X O
-Flight X X B-PARAMETER
-Route X X I-PARAMETER
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Weak X X B-ISSUE
-GPS X X I-ISSUE
-signal X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-in X X O
-Attitude X X B-STATE
-mode X X I-STATE
-and X X O
-hovering X X O
-may X X O
-be X X O
-unstable X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-SD X X B-COMPONENT
-card X X I-COMPONENT
-write X X B-PARAMETER
-speed X X I-PARAMETER
-is X X O
-too X X O
-slow X X O
-. X X O
-Not X X O
-suitable X X O
-for X X O
-shooting X X O
-a X X O
-4 X X O
-K X X O
-video X X O
-. X X O
-
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Backward X X B-FUNCTION
-Obstacle X X I-FUNCTION
-Sensing X X I-FUNCTION
-is X X O
-not X X O
-functioning X X O
-. X X O
-
-Sensing X X B-FUNCTION
-system X X I-FUNCTION
-is X X O
-blocked X X O
-or X X O
-too X X O
-close X X O
-to X X O
-the X X O
-obstacle X X O
-. X X O
-
-Weak X X B-ISSUE
-GPS X X I-ISSUE
-signal X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-in X X O
-Attitude X X B-STATE
-mode X X I-STATE
-and X X O
-hovering X X O
-may X X O
-be X X O
-unstable X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Mobile X X B-PARAMETER
-device X X I-PARAMETER
-version X X I-PARAMETER
-too X X O
-old X X O
-to X X O
-support X X O
-HD X X B-FUNCTION
-image X X I-FUNCTION
-transmission X X I-FUNCTION
-and X X O
-the X X O
-image X X B-PARAMETER
-transmission X X I-PARAMETER
-mode X X I-PARAMETER
-has X X O
-been X X O
-switch X X O
-to X X O
-normal X X B-STATE
-mode X X I-STATE
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-Intelligent X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-have X X O
-not X X O
-been X X O
-enabled X X O
-. X X O
-Enable X X O
-this X X O
-option X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-needed X X O
-. X X O
-
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
-
-Switched X X O
-to X X O
-P X X B-STATE
-( X X O
-Positioning X X I-STATE
-) X X O
-- X X O
-mode X X I-STATE
-. X X O
-
-Switched X X O
-to X X O
-T X X B-STATE
-( X X O
-Tripod X X I-STATE
-) X X O
-- X X O
-mode X X I-STATE
-. X X O
-
-Switched X X O
-to X X O
-P X X B-STATE
-( X X O
-Positioning X X I-STATE
-) X X O
-- X X O
-mode X X I-STATE
-. X X O
-
-Switched X X O
-to X X O
-S X X B-STATE
-( X X O
-Sport X X I-STATE
-) X X O
-- X X O
-mode X X I-STATE
-. X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-46 X X O
-. X X O
-
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-57 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-45 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-7 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Switched X X O
-to X X O
-P X X B-STATE
-( X X O
-Positioning X X I-STATE
-) X X O
-- X X O
-mode X X I-STATE
-. X X O
-
-Switched X X O
-to X X O
-T X X B-STATE
-( X X O
-Tripod X X I-STATE
-) X X O
-- X X O
-mode X X I-STATE
-. X X O
-
-Switched X X O
-to X X O
-P X X B-STATE
-( X X O
-Positioning X X I-STATE
-) X X O
-- X X O
-mode X X I-STATE
-. X X O
-
-Switched X X O
-to X X O
-S X X B-STATE
-( X X O
-Sport X X I-STATE
-) X X O
-- X X O
-mode X X I-STATE
-. X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-Intelligent X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-have X X O
-not X X O
-been X X O
-enabled X X O
-. X X O
-Enable X X O
-this X X O
-option X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-needed X X O
-. X X O
-
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Altitude X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Mobile X X B-PARAMETER
-device X X I-PARAMETER
-version X X I-PARAMETER
-too X X O
-old X X O
-to X X O
-support X X O
-HD X X B-FUNCTION
-image X X I-FUNCTION
-transmission X X I-FUNCTION
-and X X O
-the X X O
-image X X B-PARAMETER
-transmission X X I-PARAMETER
-mode X X I-PARAMETER
-has X X O
-been X X O
-switch X X O
-to X X O
-normal X X B-STATE
-mode X X I-STATE
-. X X O
-
-Intelligent X X B-FUNCTION
-Flight X X I-FUNCTION
-Modes X X I-FUNCTION
-have X X O
-not X X O
-been X X O
-enabled X X O
-. X X O
-Enable X X O
-this X X O
-option X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-needed X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-7 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Downlink X X B-FUNCTION
-Restored X X O
-( X X O
-after X X O
-0 X X O
-m X X O
-1s X X O
-) X X O
-. X X O
-
-Downlink X X B-FUNCTION
-Restored X X O
-( X X O
-after X X O
-0 X X O
-m X X O
-2.3s X X O
-) X X O
-. X X O
-
-Downlink X X B-FUNCTION
-Restored X X O
-( X X O
-after X X O
-0 X X O
-m X X O
-1.1s X X O
-) X X O
-. X X O
-
-Downlink X X B-FUNCTION
-Restored X X O
-( X X O
-after X X O
-0 X X O
-m X X O
-1.7s X X O
-) X X O
-. X X O
-
-Downlink X X B-FUNCTION
-Restored X X O
-( X X O
-after X X O
-0 X X O
-m X X O
-2.9s X X O
-) X X O
-. X X O
-
-Downlink X X B-FUNCTION
-Restored X X O
-( X X O
-after X X O
-0 X X O
-m X X O
-1s X X O
-) X X O
-. X X O
-
-Downlink X X B-FUNCTION
-Restored X X O
-( X X O
-after X X O
-0 X X O
-m X X O
-1s X X O
-) X X O
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Strong X X O
-Remote X X B-COMPONENT
-Controller X X I-COMPONENT
-Interference X X B-ISSUE
-. X X O
-
-Not X X O
-Allowed X X O
-to X X O
-change X X O
-Aircraft X X B-PARAMETER
-Mode X X I-PARAMETER
-. X X O
-If X X O
-needed X X O
-
-Not X X O
-Allowed X X O
-to X X O
-change X X O
-Aircraft X X B-PARAMETER
-Mode X X I-PARAMETER
-. X X O
-If X X O
-needed X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Aircraft X X B-COMPONENT
+Aircraft X X B-CMP
 is X X O
 returning X X O
 to X X O
 the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
+Home X X O
+Point X X O
+RTH X X B-ACT
+Altitude X X O
 is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-if X X O
-necessary X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-29 X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-if X X O
-necessary X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
 30m X X O
-. X X O
+You X X O
+can X X O
+reset X X O
+the X X O
+RTH X X B-ACT
+Altitude X X O
+in X X O
+Remote X X O
+Controller X X B-CMP
+Settings X X B-FNC
+after X X O
+cancelling X X O
+RTH X X B-ACT
+if X X O
+necessary X X O
 
-In X X O
-Flight X X O
-. X X O
+Switched X X O
+to X X O
+S X X B-STE
+Sport X X B-STE
+Mode X X I-STE
 
-In X X O
-Flight X X O
-. X X O
+Landing X X B-CMP
+Gear X X I-CMP
+Lowering X X B-ACT
 
-In X X O
-Flight X X O
-. X X O
+Home X X O
+Point X X O
+Updated X X O
 
-In X X O
-Flight X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-In X X O
-Flight X X O
-. X X O
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
 
-In X X O
-Flight X X O
-. X X O
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
+is X X O
+7 X X O
 
-In X X O
-Flight X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Your X X O
+palm X X O
+is X X O
+too X X O
+far X X O
+away X X O
+from X X O
+the X X O
+aircraft X X B-CMP
+Please X X O
+step X X O
+closer X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Obstacle X X B-FNC
+Sensing X X I-FNC
 will X X O
 be X X O
 disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
+when X X O
+aircraft X X B-CMP
+is X X O
+landing X X B-ACT
 Fly X X O
 with X X O
 caution X X O
-. X X O
 
-Landing X X B-ACTION
-. X X O
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
 
-SD X X B-COMPONENT
-card X X I-COMPONENT
-write X X B-PARAMETER
-speed X X I-PARAMETER
+Tip X X O
+Aircraft X X B-CMP
+reached X X O
+maximum X X B-ISS
+distance X X I-ISS
+please X X I-ISS
+pay X X O
+attention X X O
+to X X O
+flight X X O
+safety X X O
+
+Drag X X O
+a X X O
+box X X O
+around X X O
+or X X O
+tap X X O
+a X X O
+target X X O
+on X X O
+screen X X O
+Then X X O
+tap X X O
+Go X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+In X X O
+Flight X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Home X X O
+Point X X O
+Updated X X O
+
+Command X X O
+Timeout X X O
+
+Forward X X O
+Obstacle X X B-FNC
+Sensing X X I-FNC
+not X X O
+Responding X X O
+
+In X X B-STE
+Flight X X I-STE
+
+Tap X X O
+the X X O
+screen X X O
+to X X O
+focus X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Attitude X X O
 is X X O
 too X X O
-slow X X O
-. X X O
-Not X X O
-suitable X X O
-for X X O
-shooting X X O
-a X X O
-4 X X O
-K X X O
-video X X O
-. X X O
+large X X O
 
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
-
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
+Tap X X O
 the X X O
-antennas X X B-COMPONENT
-and X X O
-keep X X O
-the X X O
-antennas X X B-COMPONENT
-parallel X X O
+screen X X O
+lightly X X O
 to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
+focus X X O
 
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
+Tap X X O
 the X X O
-aircraft X X B-COMPONENT
+screen X X O
+lightly X X O
+to X X O
+focus X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Fly X X O
+with X X O
+caution X X O
+and X X O
+ensure X X O
+the X X O
+aircraft X X B-CMP
 remains X X O
 within X X O
 your X X O
 line X X O
 of X X O
 sight X X O
-and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
 
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Backward X X B-FUNCTION
-Obstacle X X I-FUNCTION
-Sensing X X I-FUNCTION
-is X X O
-not X X O
-functioning X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Sensing X X B-FUNCTION
-system X X I-FUNCTION
-is X X O
-blocked X X O
-or X X O
-too X X O
+Aircraft X X B-CMP
 close X X O
 to X X O
-the X X O
-obstacle X X O
-. X X O
+Home X X O
+Point X X O
+shifts X X O
+to X X O
 
-Weak X X B-ISSUE
-GPS X X I-ISSUE
-signal X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+Landing X X B-CMP
+gear X X I-CMP
+Avoidance X X O
+Disabled X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Switched X X O
+to X X O
+T X X B-STE
+Tripod X X I-STE
+Mode X X I-STE
+
+Home X X O
+Point X X O
+recorded X X O
+ft X X O
+
+Attitude X X O
 is X X O
+too X X O
+large X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Switched X X O
+to X X O
+T X X B-STE
+Tripod X X B-STE
+Mode X X I-STE
+
+GEO X X O
+You X X O
+are X X O
 in X X O
-Attitude X X B-STATE
-mode X X I-STATE
-and X X O
-hovering X X O
-may X X O
-be X X O
-unstable X X O
-. X X O
+a X X O
+Warning X X B-ISS
+Zone X X I-ISS
+School X X O
 Fly X X O
 with X X O
 caution X X O
-. X X O
 
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-46 X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-. X X O
+Landing X X B-CMP
+gear X X I-CMP
+Avoidance X X O
+Disabled X X O
 
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-57 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
+Obstacle X X B-FNC
+Avoidance X X I-FNC
 will X X O
 be X X O
 disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
 in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
+landing X X B-ACT
 
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
+Weak X X O
+signal X X O
 Avoid X X O
 blocking X X O
 the X X O
-antennas X X B-COMPONENT
+antennas X X O
 and X X O
 keep X X O
 the X X O
-antennas X X B-COMPONENT
+antennas X X O
 parallel X X O
 to X X O
 and X X O
 facing X X O
 toward X X O
 the X X O
-aircraft X X B-COMPONENT
+aircraft X X B-CMP
 during X X O
 flight X X O
-. X X O
 
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Tap X X O
 the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
+screen X X O
+to X X O
+focus X X O
 
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GEO X X I-STE
+You X X O
+are X X O
 in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
+a X X O
+Warning X X B-ISS
+Zone X X I-ISS
+School X X O
+Fly X X O
+with X X O
+caution X X O
 
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
+Ground X X O
+Plain X X O
+Safe X X O
+to X X O
+Land X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Weak X X O
+signal X X O
+Avoid X X O
+blocking X X O
 the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
+antennas X X O
 and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-SD X X B-COMPONENT
-card X X I-COMPONENT
-write X X B-PARAMETER
-speed X X I-PARAMETER
-is X X O
-too X X O
-slow X X O
-. X X O
-Not X X O
-suitable X X O
-for X X O
-shooting X X O
-a X X O
-4 X X O
-K X X O
-video X X O
-. X X O
-
-SD X X B-COMPONENT
-card X X I-COMPONENT
-write X X B-PARAMETER
-speed X X I-PARAMETER
-is X X O
-too X X O
-slow X X O
-. X X O
-Not X X O
-suitable X X O
-for X X O
-shooting X X O
-a X X O
-4 X X O
-K X X O
-video X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Motor X X B-COMPONENT
-or X X O
-propeller X X B-COMPONENT
-error X X B-ISSUE
-. X X O
-Check X X O
+keep X X O
 the X X O
-motors X X B-COMPONENT
+antennas X X O
+parallel X X O
+to X X O
 and X X O
-propellers X X B-COMPONENT
-. X X O
+facing X X O
+toward X X O
+the X X O
+aircraft X X B-CMP
+during X X O
+flight X X O
 
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
+Landing X X B-CMP
+gear X X I-CMP
+Avoidance X X O
+Disabled X X O
 
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-SD X X B-COMPONENT
-card X X I-COMPONENT
-write X X B-PARAMETER
-speed X X I-PARAMETER
+Your X X O
+palm X X O
 is X X O
 too X X O
-slow X X O
-. X X O
-Not X X O
-suitable X X O
-for X X O
-shooting X X O
-a X X O
-4 X X O
-K X X O
-video X X O
-. X X O
+far X X O
+away X X O
+from X X O
+the X X O
+aircraft X X B-CMP
+Please X X O
+step X X O
+closer X X O
 
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-12 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
+Home X X O
+Point X X O
 Updated X X O
-. X X O
 
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-15 X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-15 X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-recorded X X O
-. X X O
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Remote X X B-ACTION
-controller X X I-ACTION
-assisted X X I-ACTION
-takeoff X X I-ACTION
-initiated X X O
-. X X O
-
-SD X X B-COMPONENT
-card X X I-COMPONENT
-write X X B-PARAMETER
-speed X X I-PARAMETER
-is X X O
-too X X O
-slow X X O
-. X X O
-Not X X O
-suitable X X O
-for X X O
-shooting X X O
-a X X O
-4 X X O
-K X X O
-video X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Strong X X B-ISSUE
-Interference X X I-ISSUE
-to X X O
-Aircraft X X B-COMPONENT
-. X X O
-Signal X X B-ISSUE
-interruption X X I-ISSUE
-may X X O
-be X X O
-more X X O
-likely X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Strong X X B-ISSUE
-Interference X X I-ISSUE
-to X X O
-Aircraft X X B-COMPONENT
-. X X O
-Signal X X B-ISSUE
-interruption X X I-ISSUE
-may X X O
-be X X O
-more X X O
-likely X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Strong X X B-ISSUE
-Interference X X I-ISSUE
-to X X O
-Aircraft X X B-COMPONENT
-. X X O
-Signal X X B-ISSUE
-interruption X X I-ISSUE
-may X X O
-be X X O
-more X X O
-likely X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Strong X X B-ISSUE
-Interference X X I-ISSUE
-to X X O
-Aircraft X X B-COMPONENT
-. X X O
-Signal X X B-ISSUE
-interruption X X I-ISSUE
-may X X O
-be X X O
-more X X O
-likely X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Strong X X B-ISSUE
-Interference X X I-ISSUE
-to X X O
-Aircraft X X B-COMPONENT
-. X X O
-Signal X X B-ISSUE
-interruption X X I-ISSUE
-may X X O
-be X X O
-more X X O
-likely X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
-
-The X X O
-remaining X X O
-battery X X B-COMPONENT
-is X X O
-only X X O
-enough X X O
-for X X O
-RTH X X B-ACTION
-. X X O
-Return X X O
-home X X O
-now X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
-
-Attitude X X B-PARAMETER
+Attitude X X O
 is X X O
 too X X O
 large X X O
-. X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
 Fly X X O
 with X X O
 caution X X O
@@ -7457,2560 +1088,2042 @@ a X X O
 safe X X O
 place X X O
 ASAP X X O
-. X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+Home X X O
+Point X X O
+Updated X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+Taking X X B-ACT
+Off X X I-ACT
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+Switched X X O
+to X X O
+T X X B-STE
+Tripod X X B-STE
+Mode X X I-STE
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
+Tip X X O
+Aircraft X X B-CMP
+reached X X O
+maximum X X B-ISS
+distance X X I-ISS
+please X X O
+pay X X O
+attention X X O
+to X X O
+flight X X O
+safety X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
+GEO X X O
+You X X O
+are X X O
+in X X O
+a X X O
+Warning X X B-ISS
+Zone X X I-ISS
+School X X O
 Fly X X O
 with X X O
 caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
 
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
 
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Attitude X X B-PARAMETER
-is X X O
-too X X O
-large X X O
-. X X O
-
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
-
-Fly X X O
-with X X O
-caution X X O
-and X X O
-ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
+Obstacle X X B-FNC
+Avoidance X X I-FNC
 will X X O
 be X X O
 disabled X X O
 in X X O
-landing X X O
-. X X O
+landing X X B-ACT
 
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Tap X X O
+Compass X X B-CMP
+abnormalSolution X X O
+1 X X O
+Ensure X X O
+there X X O
+are X X O
+no X X O
+magnets X X O
+or X X O
+metal X X O
+objects X X O
+near X X O
 the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
+aircraft X X B-CMP
+The X X O
+ground X X O
+or X X O
+walls X X O
+may X X O
+contain X X O
+metal X X O
+Move X X O
+away X X O
+from X X O
+sources X X O
+of X X O
+interference X X B-ISS
+before X X O
+attempting X X O
+flight X X O
+2 X X O
+Calibrate X X B-ACT
+Compass X X B-CMP
+Before X X O
+Takeoff X X O
 
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
+Max X X B-ISS
+Flight X X I-ISS
+Altitude X X I-ISS
+Reached X X O
+Adjust X X O
 in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
 if X X O
 necessary X X O
-. X X O
 
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
+Fly X X O
+with X X O
+caution X X O
+and X X O
+ensure X X O
 the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-if X X O
-necessary X X O
-. X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
 
-Descending X X B-ACTION
-. X X O
-Exited X X B-ACTION
-Visual X X B-FUNCTION
-Avoidance X X I-FUNCTION
-System X X I-FUNCTION
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Descending X X B-ACTION
-. X X O
-Exited X X B-ACTION
-Visual X X B-FUNCTION
-Avoidance X X I-FUNCTION
-System X X I-FUNCTION
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Rectifying X X B-ACTION
-aircraft X X B-PARAMETER
-position X X I-PARAMETER
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-
-Rectifying X X B-ACTION
-aircraft X X B-PARAMETER
-position X X I-PARAMETER
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
 is X X O
 7 X X O
-. X X O
 
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Preascending X X B-STATE
-. X X O
-
-Aircraft X X B-COMPONENT
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
 is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
+15 X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Distance X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Downlink X X B-CMP
+Lost X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GEO X X O
 You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
+are X X O
 in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-if X X O
-necessary X X O
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Heading X X B-STATE
-alignment X X I-STATE
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Heading X X B-STATE
-alignment X X I-STATE
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Cruise X X B-STATE
-. X X O
-
-Exited X X B-ACTION
-Visual X X B-FUNCTION
-Avoidance X X I-FUNCTION
-System X X I-FUNCTION
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Landing X X B-ACTION
-Canceled X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-98 X X O
-ft X X O
-. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Locating X X B-ACTION
-Landing X X B-PARAMETER
-Point X X I-PARAMETER
-
-Landing X X B-ACTION
-Canceled X X O
-. X X O
-
-Forward X X B-FUNCTION
-Obstacle X X I-FUNCTION
-Sensing X X I-FUNCTION
-not X X O
-Responding X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Landing X X B-ACTION
-Canceled X X O
-. X X O
-
-Max X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-in X X O
-Main X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-necessary X X O
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-98 X X O
-ft X X O
-. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Locating X X B-ACTION
-Landing X X B-PARAMETER
-Point X X I-PARAMETER
-
-Landing X X B-ACTION
-Canceled X X O
-. X X O
-
-Forward X X B-FUNCTION
-Obstacle X X I-FUNCTION
-Sensing X X I-FUNCTION
-not X X O
-Responding X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-in X X O
-landing X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Paused X X O
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-21 X X O
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
+a X X O
+Warning X X B-ISS
+Zone X X I-ISS
+School X X O
+Fly X X O
+with X X O
+caution X X O
+
+Home X X O
+Point X X O
 Updated X X O
-. X X O
 
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raising X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Raised X X O
-. X X O
-
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowering X X O
-. X X O
-
-Landing X X B-COMPONENT
-Gear X X I-COMPONENT
-Lowered X X O
-. X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Strong X X B-ISSUE
-Interference X X I-ISSUE
-Now X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Cruise X X B-STATE
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Strong X X B-ISSUE
-Interference X X I-ISSUE
-Now X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Preascending X X B-STATE
-. X X O
-
-Aircraft X X B-COMPONENT
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
 is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
+15 X X O
+
+Attitude X X O
 is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-if X X O
-necessary X X O
-. X X O
+too X X O
+large X X O
 
-RTH X X B-ACTION
-: X X O
-Heading X X B-STATE
-alignment X X I-STATE
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Ascending X X B-STATE
-to X X O
-RTH X X B-PARAMETER
-altitude X X I-PARAMETER
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Cruise X X B-STATE
-. X X O
-
-Exited X X B-ACTION
-Visual X X B-FUNCTION
-Avoidance X X I-FUNCTION
-System X X I-FUNCTION
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-In X X O
-Flight X X O
-. X X O
-
-In X X O
-Flight X X O
-. X X O
-
-Compass X X B-ISSUE
-Redundancy X X I-ISSUE
-Switch X X I-ISSUE
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-. X X O
-
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
+Obstacle X X B-FNC
+Avoidance X X I-FNC
 will X X O
 be X X O
 disabled X X O
 in X X O
-landing X X O
-. X X O
+landing X X B-ACT
 
-Locating X X B-ACTION
-Landing X X B-PARAMETER
-Point X X I-PARAMETER
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
+is X X O
+8 X X O
 
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
+Tap X X O
+the X X O
+screen X X O
+lightly X X O
 to X X O
-Land X X O
-. X X O
+focus X X O
 
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
+Remote X X O
+controller X X B-CMP
+assisted X X O
+takeoff X X O
+initiated X X O
 
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
+is X X O
+45 X X O
 
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
+is X X O
+6 X X O
 
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
+Landing X X B-ACT
+Canceled X X O
 
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
 Fly X X O
 with X X O
 caution X X O
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Weak X X B-ISSUE
-GPS X X I-ISSUE
-signal X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
-in X X O
-Attitude X X B-STATE
-mode X X I-STATE
 and X X O
-hovering X X O
-may X X O
-be X X O
-unstable X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-Tap X X O
+ensure X X O
 the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
 
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
-will X X O
-be X X O
-disabled X X O
-when X X O
-aircraft X X B-COMPONENT
-is X X O
-landing X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
-
-SD X X B-COMPONENT
-card X X I-COMPONENT
-write X X B-PARAMETER
-speed X X I-PARAMETER
+SD X X B-CMP
+card X X I-CMP
+write X X O
+speed X X O
 is X X O
 too X X O
 slow X X O
-. X X O
 Not X X O
 suitable X X O
 for X X O
 shooting X X O
 a X X O
-4 X X O
-K X X O
+4K X X O
 video X X O
-. X X O
 
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
-Avoid X X O
-blocking X X O
-the X X O
-antennas X X B-COMPONENT
+Landing X X B-CMP
+Gear X X I-CMP
+Raising X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Fly X X O
+with X X O
+caution X X O
 and X X O
-keep X X O
+ensure X X O
 the X X O
-antennas X X B-COMPONENT
-parallel X X O
-to X X O
-and X X O
-facing X X O
-toward X X O
-the X X O
-aircraft X X B-COMPONENT
-during X X O
-flight X X O
-. X X O
-
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
-the X X O
-aircraft X X B-COMPONENT
+aircraft X X B-CMP
 remains X X O
 within X X O
 your X X O
 line X X O
 of X X O
 sight X X O
-and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
 
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
 
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
 will X X O
 be X X O
 disabled X X O
-when X X O
-aircraft X X B-COMPONENT
+in X X O
+landing X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+will X X O
+be X X O
+disabled X X O
+in X X O
+landing X X B-ACT
+
+Locating X X O
+Landing X X B-ACT
+Point X X O
+
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
 is X X O
-landing X X O
-. X X O
+30 X X O
+
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X I-STE
+Mode X X I-STE
+
+Tap X X O
+the X X O
+screen X X O
+lightly X X O
+to X X O
+focus X X O
+
+Strong X X O
+Interference X X B-ISS
+to X X O
+Aircraft X X B-CMP
+Signal X X O
+interruption X X O
+may X X O
+be X X O
+more X X O
+likely X X O
 Fly X X O
 with X X O
 caution X X O
-. X X O
 
-Backward X X B-FUNCTION
-Obstacle X X I-FUNCTION
-Sensing X X I-FUNCTION
-is X X O
-not X X O
-functioning X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Sensing X X B-FUNCTION
-system X X I-FUNCTION
+Gimbal X X B-CMP
+Pitch X X I-CMP
+Limit X X O
+Reached X X O
+
+In X X B-STE
+Flight X X I-STE
+
+Landing X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Tap X X O
+the X X O
+screen X X O
+lightly X X O
+to X X O
+focus X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X O
+Avoided X X B-ACT
+Revise X X O
+Flight X X O
+Route X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+ÃÂÃÂ X X O
+30m X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Ground X X O
+Plain X X O
+Safe X X O
+to X X O
+Land X X O
+
+Maximum X X B-ISS
+flight X X I-ISS
+distance X X I-ISS
+reached X X O
+Adjust X X O
+the X X O
+distance X X O
+in X X O
+MC X X O
+Settings X X B-FNC
+if X X O
+required X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Distance X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+Fly X X O
+with X X O
+caution X X O
+and X X O
+ensure X X O
+the X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
+
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
 is X X O
-blocked X X O
-or X X O
+9 X X O
+
+Palm X X B-FNC
+Control X X I-FNC
+in X X O
+Process X X O
+
+Maximum X X B-ISS
+flight X X I-ISS
+distance X X I-ISS
+reached X X O
+Adjust X X O
+the X X O
+distance X X O
+in X X O
+MC X X O
+Settings X X B-FNC
+if X X O
+required X X O
+
+Landing X X B-ACT
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Strong X X O
+Interference X X B-ISS
+to X X O
+Aircraft X X B-CMP
+Signal X X O
+interruption X X O
+may X X O
+be X X O
+more X X O
+likely X X O
+Fly X X O
+with X X O
+caution X X O
+
+Landing X X B-CMP
+Gear X X I-CMP
+Raised X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Large X X O
+Wind X X B-ISS
+Velocity X X I-ISS
+
+Tap X X O
+the X X O
+screen X X O
+lightly X X O
+to X X O
+focus X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Altitude X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+disabled X X O
+Landing X X B-CMP
+gear X X I-CMP
+lowered X X B-ACT
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+has X X O
+been X X O
+disabled X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Updated X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Your X X O
+palm X X O
+is X X O
 too X X O
 close X X O
 to X X O
 the X X O
-obstacle X X O
-. X X O
+aircraft X X B-CMP
+Please X X O
+step X X O
+farther X X O
+away X X O
 
-Weak X X B-ISSUE
-GPS X X I-ISSUE
-signal X X I-ISSUE
-. X X O
-Aircraft X X B-COMPONENT
-is X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Not X X O
+Allowed X X O
+to X X O
+change X X O
+Aircraft X X B-CMP
+Mode X X O
+If X X O
+needed X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Distance X X I-ISS
+Reached X X O
+Adjust X X O
 in X X O
-Attitude X X B-STATE
-mode X X I-STATE
-and X X O
-hovering X X O
-may X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Tip X X O
+Aircraft X X B-CMP
+reached X X O
+maximum X X B-ISS
+distance X X I-ISS
+please X X O
+pay X X O
+attention X X O
+to X X O
+flight X X O
+safety X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Distance X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Altitude X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+will X X O
 be X X O
-unstable X X O
-. X X O
-Fly X X O
-with X X O
-caution X X O
-. X X O
+disabled X X O
+in X X O
+landing X X B-ACT
 
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
+Attitude X X O
 is X X O
-46 X X O
-. X X O
+too X X O
+large X X O
 
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-65FT X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
+Home X X O
+Point X X O
 Recorded X X O
-. X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
 
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Large X X B-ISSUE
-Wind X X I-ISSUE
-Velocity X X I-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-GPS X X B-PARAMETER
-Position X X I-PARAMETER
-Mismatch X X B-ISSUE
-. X X O
-
-Landing X X B-ACTION
-. X X O
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
 is X X O
 57 X X O
-. X X O
 
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
 
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
+Large X X O
+Wind X X B-ISS
+Velocity X X I-ISS
+
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
+Ensure X X O
+the X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
+and X X O
+fly X X O
+with X X O
+caution X X O
+
+Landing X X B-ACT
+Canceled X X O
+
+Palm X X B-FNC
+Control X X I-FNC
+in X X O
+Process X X O
+
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
+Ensure X X O
+the X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
+and X X O
+fly X X O
+with X X O
+caution X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X B-FNC
+Sensing X X I-FNC
 will X X O
 be X X O
 disabled X X O
 when X X O
-aircraft X X B-COMPONENT
+aircraft X X B-CMP
 is X X O
-landing X X O
-. X X O
+landing X X B-ACT
 Fly X X O
 with X X O
 caution X X O
-. X X O
 
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
+Obstacle X X B-FNC
+Sensing X X I-FNC
+will X X O
+be X X O
+disabled X X O
+when X X O
+aircraft X X B-CMP
+is X X O
+landing X X B-ACT
+Fly X X O
+with X X O
+caution X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Locating X X O
+Landing X X B-ACT
+Point X X O
+
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
+is X X O
+8 X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+will X X O
+be X X O
+disabled X X O
+in X X O
+landing X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Gimbal X X B-CMP
+Pitch X X I-CMP
 Reached X X O
-. X X O
+Movement X X O
+Limit X X O
+
+Switched X X O
+to X X O
+S X X B-STE
+Sport X X B-STE
+Mode X X I-STE
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Landing X X B-CMP
+Gear X X I-CMP
+Lowered X X B-ACT
+
+Maximum X X B-ISS
+flight X X I-ISS
+distance X X I-ISS
+reached X X O
 Adjust X X O
+the X X O
 distance X X O
 in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
+MC X X O
+Settings X X B-FNC
 if X X O
 required X X O
-. X X O
 
-Weak X X B-ISSUE
-signal X X I-ISSUE
-. X X O
+Max X X B-ISS
+Flight X X I-ISS
+Altitude X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+Can X X O
+not X X O
+Identify X X O
+Subject X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Fly X X O
+with X X O
+caution X X O
+and X X O
+ensure X X O
+the X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
+
+Switched X X O
+to X X O
+S X X B-STE
+Sport X X B-STE
+
+Aircraft X X B-CMP
+is X X O
+returning X X O
+to X X O
+the X X O
+Home X X O
+Point X X O
+Minimum X X O
+RTH X X B-ACT
+Altitude X X O
+is X X O
+98ft X X O
+You X X O
+can X X O
+reset X X O
+the X X O
+RTH X X B-ACT
+Altitude X X O
+in X X O
+Remote X X O
+Controller X X B-CMP
+Settings X X B-FNC
+after X X O
+cancelling X X O
+RTH X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GEO X X O
+You X X O
+are X X O
+in X X O
+a X X O
+Warning X X B-ISS
+Zone X X I-ISS
+School X X O
+Fly X X O
+with X X O
+caution X X O
+Compass X X B-CMP
+abnormalSolution X X O
+1 X X O
+Ensure X X O
+there X X O
+are X X O
+no X X O
+magnets X X O
+or X X O
+metal X X O
+objects X X O
+near X X O
+the X X O
+aircraft X X B-CMP
+The X X O
+ground X X O
+or X X O
+walls X X O
+may X X O
+contain X X O
+metal X X O
+Move X X O
+away X X O
+from X X O
+sources X X O
+of X X O
+interference X X B-ISS
+before X X O
+attempting X X O
+flight X X O
+2 X X O
+Calibrate X X B-ACT
+Compass X X B-CMP
+Before X X O
+Takeoff X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+will X X O
+be X X O
+disabled X X O
+in X X O
+landing X X B-ACT
+
+Home X X O
+Point X X O
+Updated X X O
+
+Aircraft X X B-CMP
+is X X O
+returning X X O
+to X X O
+the X X O
+Home X X O
+Point X X O
+RTH X X B-ACT
+Altitude X X O
+is X X O
+30m X X O
+You X X O
+can X X O
+reset X X O
+the X X O
+RTH X X B-ACT
+Altitude X X O
+in X X O
+Remote X X O
+Controller X X B-CMP
+Settings X X B-FNC
+after X X O
+cancelling X X O
+RTH X X B-ACT
+if X X O
+necessary X X O
+
+In X X B-STE
+Flight X X I-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Your X X O
+palm X X O
+is X X O
+too X X O
+close X X O
+to X X O
+the X X O
+aircraft X X B-CMP
+Please X X O
+step X X O
+farther X X O
+away X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Your X X O
+palm X X O
+is X X O
+too X X O
+close X X O
+to X X O
+the X X O
+aircraft X X B-CMP
+Please X X O
+step X X O
+farther X X O
+away X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Landing X X B-ACT
+
+Landing X X B-FNC
+Protection X X I-FNC
+Activated X X O
+Aircraft X X B-CMP
+will X X O
+decelerate X X O
+during X X O
+landing X X B-ACT
+
+Landing X X B-CMP
+gear X X I-CMP
+Avoidance X X O
+Disabled X X O
+
+Switched X X O
+to X X O
+S X X B-STE
+Sport X X B-STE
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+off X X I-ACT
+
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
+is X X O
+12 X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+Intelligent X X B-STE
+Flight X X I-STE
+Modes X X I-STE
+have X X O
+not X X O
+been X X O
+enabled X X O
+Enable X X O
+this X X O
+option X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+needed X X O
+
+Aircraft X X B-CMP
+is X X O
+returning X X O
+to X X O
+the X X O
+Home X X O
+Point X X O
+Minimum X X O
+RTH X X B-ACT
+Altitude X X O
+is30m X X O
+You X X O
+can X X O
+reset X X O
+the X X O
+RTH X X B-ACT
+Altitude X X O
+in X X O
+Remote X X O
+Controller X X B-CMP
+Settings X X B-FNC
+after X X O
+cancelling X X O
+RTH X X B-ACT
+
+Taking X X B-ACT
+Off X X I-ACT
+
+GEO X X O
+You X X O
+are X X O
+in X X O
+a X X O
+Warning X X B-ISS
+Zone X X I-ISS
+School X X O
+Fly X X O
+with X X O
+caution X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Another X X O
+aircraft X X B-CMP
+is X X O
+nearby X X O
+Fly X X O
+with X X O
+caution X X O
+Another X X O
+aircraft X X B-CMP
+is X X O
+dangerously X X O
+close X X O
+please X X O
+descend X X O
+to X X O
+a X X O
+safer X X O
+altitude X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+will X X O
+be X X O
+disabled X X O
+in X X O
+landing X X B-ACT
+
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
+is X X O
+29 X X O
+
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
+Fly X X O
+with X X O
+caution X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+Obstacle X X B-FNC
+Sensing X X I-FNC
+will X X O
+be X X O
+disabled X X O
+when X X O
+aircraft X X B-CMP
+is X X O
+landing X X B-ACT
+Fly X X O
+with X X O
+caution X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+will X X O
+be X X O
+disabled X X O
+in X X O
+landing X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Tip X X O
+Aircraft X X B-CMP
+reached X X O
+maximum X X B-ISS
+distance X X I-ISS
+please X X I-ISS
+pay X X O
+attention X X O
+to X X O
+flight X X O
+safety X X O
+
+Ground X X O
+Plain X X O
+Safe X X O
+to X X O
+Land X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Updated X X O
+
+Switched X X I-STE
+to X X O
+T X X B-STE
+Tripod X X B-STE
+Mode X X I-STE
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Weak X X O
+signal X X O
 Avoid X X O
 blocking X X O
 the X X O
-antennas X X B-COMPONENT
+antennas X X O
 and X X O
 keep X X O
 the X X O
-antennas X X B-COMPONENT
+antennas X X O
 parallel X X O
 to X X O
 and X X O
 facing X X O
 toward X X O
 the X X O
-aircraft X X B-COMPONENT
+aircraft X X B-CMP
 during X X O
 flight X X O
-. X X O
 
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Tap X X O
 the X X O
-aircraft X X B-COMPONENT
+screen X X O
+lightly X X O
+to X X O
+focus X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Fly X X O
+with X X O
+caution X X O
+and X X O
+ensure X X O
+the X X O
+aircraft X X B-CMP
 remains X X O
 within X X O
 your X X O
 line X X O
 of X X O
 sight X X O
-and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
 
-Maximum X X B-PARAMETER
-Flight X X I-PARAMETER
-Distance X X I-PARAMETER
-Reached X X O
-. X X O
-Adjust X X O
-distance X X O
-in X X O
-MC X X B-FUNCTION
-Settings X X I-FUNCTION
-if X X O
-required X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-High X X B-ISSUE
-wind X X I-ISSUE
-velocity X X I-ISSUE
-. X X O
-Ensure X X O
-the X X O
-aircraft X X B-COMPONENT
-remains X X O
-within X X O
-your X X O
-line X X O
-of X X O
-sight X X O
-and X X O
-fly X X O
-with X X O
-caution X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-45 X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Obstacle X X B-FUNCTION
-Sensing X X I-FUNCTION
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X B-FNC
+Sensing X X I-FNC
 will X X O
 be X X O
 disabled X X O
 when X X O
-aircraft X X B-COMPONENT
+aircraft X X B-CMP
 is X X O
-landing X X O
-. X X O
+landing X X B-ACT
 Fly X X O
 with X X O
 caution X X O
-. X X O
 
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Downlink X X B-ISSUE
-Lost X X I-ISSUE
-. X X O
+Taking X X B-ACT
+Off X X I-ACT
 
-Forward X X B-FUNCTION
-Obstacle X X I-FUNCTION
-Sensing X X I-FUNCTION
-  X X O
-not X X O
-Working X X O
-. X X O
-
-Ambient X X B-PARAMETER
-Light X X I-PARAMETER
-too X X O
-Weak X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
 Fly X X O
 with X X O
-Caution X X O
-. X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Satellite X X B-FUNCTION
-positioning X X I-FUNCTION
-off X X O
-. X X O
-Fly X X O
-with X X O
-Caution X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Tap X X O
+caution X X O
+and X X O
+ensure X X O
 the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
 
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
+Palm X X B-FNC
+Control X X I-FNC
 in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-if X X O
-necessary X X O
-. X X O
+Process X X O
 
-Descending X X B-ACTION
-. X X O
-Exited X X B-ACTION
-Visual X X B-FUNCTION
-Avoidance X X I-FUNCTION
-System X X I-FUNCTION
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
 
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
+Gimbal X X B-CMP
+Pitch X X I-CMP
+Limit X X O
+Reached X X O
 
-Rectifying X X B-ACTION
-aircraft X X B-PARAMETER
-position X X I-PARAMETER
+Taking X X B-ACT
+Off X X I-ACT
 
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-
-Rectifying X X B-ACTION
-aircraft X X B-PARAMETER
-position X X I-PARAMETER
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-
-Rectifying X X B-ACTION
-aircraft X X B-PARAMETER
-position X X I-PARAMETER
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-
-Rectifying X X B-ACTION
-aircraft X X B-PARAMETER
-position X X I-PARAMETER
-
-Data X X B-COMPONENT
-Recorder X X I-COMPONENT
-File X X B-PARAMETER
-Index X X I-PARAMETER
-is X X O
-5 X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-
-Return X X B-PARAMETER
-- X X O
-to X X I-PARAMETER
-- X X O
-Home X X I-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-98FT X X O
-. X X O
-
-Home X X I-PARAMETER
-Point X X B-PARAMETER
-Updated X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
-
-Aircraft X X B-COMPONENT
-is X X O
-returning X X O
-to X X O
-the X X O
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-. X X O
-Minimum X X B-PARAMETER
-RTH X X I-PARAMETER
-Altitude X X I-PARAMETER
-is X X O
-30 X X O
-m. X X O
-You X X O
-can X X O
-reset X X O
-the X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-in X X O
-Remote X X B-FUNCTION
-Controller X X I-FUNCTION
-Settings X X I-FUNCTION
-after X X O
-cancelling X X O
-RTH X X B-ACTION
-if X X O
-necessary X X O
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Heading X X B-STATE
-alignment X X I-STATE
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Ascending X X B-STATE
-to X X O
-RTH X X B-PARAMETER
-altitude X X I-PARAMETER
-. X X O
-
-RTH X X B-ACTION
-: X X O
-Cruise X X B-STATE
-. X X O
-
-Exited X X B-ACTION
-Visual X X B-FUNCTION
-Avoidance X X I-FUNCTION
-System X X I-FUNCTION
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Ground X X O
-Plain X X O
-. X X O
-Safe X X O
-to X X O
-Land X X O
-. X X O
-
-Precision X X B-FUNCTION
-Landing X X I-FUNCTION
-. X X O
-Rectifying X X B-ACTION
-aircraft X X B-COMPONENT
-position X X O
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Taking X X B-ACTION
-Off X X I-ACTION
-. X X O
-
-Home X X B-PARAMETER
-Point X X I-PARAMETER
-Recorded X X O
-. X X O
-RTH X X B-PARAMETER
-Altitude X X I-PARAMETER
-: X X O
-30m X X O
-. X X O
-
-Tap X X O
-the X X O
-screen X X O
-lightly X X O
-to X X O
-focus X X O
-. X X O
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+will X X O
+be X X O
+disabled X X O
+in X X B-STE
+landing X X I-STE
 
 Obstacle X X O
-Avoided X X O
-. X X O
+Avoided X X B-ACT
 Revise X X O
-Flight X X B-PARAMETER
-Route X X I-PARAMETER
+Flight X X O
+Route X X O
 
-Obstacle X X B-FUNCTION
-Avoidance X X I-FUNCTION
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
 will X X O
 be X X O
 disabled X X O
 in X X O
-landing X X O
-. X X O
+landing X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+The X X O
+remaining X X O
+battery X X B-CMP
+is X X O
+only X X O
+enough X X O
+for X X O
+RTH X X B-ACT
+Return X X O
+home X X O
+now X X O
+
+To X X O
+take X X O
+off X X O
+in X X O
+mode X X O
+toggle X X O
+Flight X X O
+Mode X X O
+Switch X X O
+to X X O
+another X X O
+mode X X O
+and X X O
+then X X O
+toggle X X O
+it X X O
+back X X O
+
+Switched X X O
+to X X O
+S X X B-STE
+Sport X X B-STE
+Mode X X I-STE
+
+Ground X X O
+Plain X X O
+Safe X X O
+to X X O
+Land X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
+Ensure X X O
+the X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
+and X X O
+fly X X O
+with X X O
+caution X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Gimbal X X B-CMP
+Roll X X I-CMP
+Limit X X O
+Reached X X O
+
+Can X X O
+not X X O
+switch X X O
+flight X X O
+mode X X O
+Turn X X O
+on X X O
+Multiple X X O
+Flight X X O
+Modes X X O
+to X X O
+enable X X O
+Atti X X O
+and X X O
+Sport X X B-STE
+Modes X X I-STE
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Not X X O
+Allowed X X O
+to X X O
+change X X O
+Aircraft X X B-CMP
+Mode X X O
+If X X O
+needed X X O
+
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
+Fly X X O
+with X X O
+caution X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Max X X B-ISS
+Flight X X I-ISS
+Distance X X I-ISS
+Reached X X O
+Adjust X X O
+in X X O
+Main X X O
+Controller X X B-CMP
+Settings X X B-FNC
+if X X O
+necessary X X O
+
+Obstacle X X B-FNC
+Avoidance X X I-FNC
+will X X O
+be X X O
+disabled X X O
+in X X O
+landing X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+Landing X X B-CMP
+gear X X I-CMP
+Avoidance X X O
+Disabled X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+Downlink X X B-CMP
+Lost X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Weak X X O
+signal X X O
+Avoid X X O
+blocking X X O
+the X X O
+antennas X X O
+and X X O
+keep X X O
+the X X O
+antennas X X O
+parallel X X O
+to X X O
+and X X O
+facing X X O
+toward X X O
+the X X O
+aircraft X X B-CMP
+during X X O
+flight X X O
+
+Data X X O
+Recorder X X O
+File X X O
+Index X X O
+is X X O
+57 X X O
+
+Landing X X B-FNC
+Protection X X I-FNC
+Activated X X O
+Aircraft X X B-CMP
+will X X O
+decelerate X X O
+during X X O
+landing X X B-ACT
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Taking X X B-ACT
+Off X X I-ACT
+
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
+
+High X X O
+wind X X B-ISS
+velocity X X I-ISS
+Ensure X X O
+the X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
+and X X O
+fly X X O
+with X X O
+caution X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Updated X X O
+
+Attitude X X O
+is X X O
+too X X O
+large X X O
+
+Maximum X X B-ISS
+flight X X I-ISS
+distance X X I-ISS
+reached X X O
+Adjust X X O
+the X X O
+distance X X O
+in X X O
+MC X X O
+Settings X X B-FNC
+if X X O
+required X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+Landing X X B-FNC
+Protection X X I-FNC
+Activated X X O
+Aircraft X X B-CMP
+will X X O
+decelerate X X O
+during X X O
+landing X X B-ACT
+
+To X X O
+take X X O
+off X X O
+in X X O
+mode X X O
+toggle X X O
+Flight X X O
+Mode X X O
+Switch X X O
+to X X O
+another X X O
+mode X X O
+and X X O
+then X X O
+toggle X X O
+it X X O
+back X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Updated X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Switched X X O
+to X X O
+P X X B-STE
+Positioning X X B-STE
+Mode X X I-STE
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+Recorded X X O
+RTH X X B-ACT
+Altitude X X O
+30m X X O
+
+Fly X X O
+with X X O
+caution X X O
+and X X O
+ensure X X O
+the X X O
+aircraft X X B-CMP
+remains X X O
+within X X O
+your X X O
+line X X O
+of X X O
+sight X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O
+
+Home X X O
+Point X X O
+recorded X X O
+ft X X O
+
+GPS X X B-FNC
+Position X X O
+Mismatch X X O

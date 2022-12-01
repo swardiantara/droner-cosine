@@ -18,8 +18,8 @@ def to_conll(dataframe, split_type):
             # print(file=f_out)
 
 def main():
-    train_path = './ner_drone_train_3(7030).csv'
-    test_path = './ner_drone_test_3(7030).csv'
+    train_path = './droner_train_5.csv'
+    test_path = './droner_test_5.csv'
 
     train_df = pd.read_csv(train_path, encoding= 'unicode_escape')
     test_df = pd.read_csv(test_path, encoding= 'unicode_escape')
