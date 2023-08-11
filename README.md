@@ -1,7 +1,7 @@
-## TENER: Adapting Transformer Encoder for Named Entity Recognition
+## Transformer-Based Named Entity Recognition on Drone Flight Logs to Support Forensic Investigation
 
 
-This is the code for the paper [TENER](https://arxiv.org/abs/1911.04474). 
+This is the code for the paper [Transformer-Based Named Entity Recognition on Drone Flight Logs to Support Forensic Investigation](https://ieeexplore.ieee.org/document/10007817). 
 
 TENER (Transformer Encoder for Named Entity Recognition) is a Transformer-based model which
  aims to tackle the NER task. Compared with the naive Transformer, we 
